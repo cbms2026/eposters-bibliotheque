@@ -53,7 +53,17 @@
         {
           "slug": "maladies_emergentes",
           "titre": "Maladies émergentes et ré-émergentes",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "microbiologie/themes/maladies_emergentes/M21 Hantaviruses Facts over Fear Risk, Reality, and Misinformation.pdf",
+              "nom": "M21 Hantaviruses Facts over Fear Risk, Reality, and Misinformation.pdf",
+              "titre": "M21 Hantaviruses Facts over Fear Risk, Reality, and Misinformation",
+              "specialite": "microbiologie",
+              "theme": "maladies_emergentes",
+              "vignette": null,
+              "recherche": "m21 hantaviruses facts over fear risk, reality, and misinformation m21 hantaviruses facts over fear risk, reality, and misinformation.pdf microbiologie maladies_emergentes"
+            }
+          ]
         },
         {
           "slug": "divers",
