@@ -114,7 +114,332 @@
         {
           "slug": "maladies_metaboliques",
           "titre": "Biochimie et maladies métaboliques",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B13 Hypothyroïdie Autoimmune Sévère  de la Crise Métabolique à la Normalisation Spectaculaire sous Traitement.pdf",
+              "nom": "B13 Hypothyroïdie Autoimmune Sévère  de la Crise Métabolique à la Normalisation Spectaculaire sous Traitement.pdf",
+              "titre": "B13 Hypothyroïdie Autoimmune Sévère  de la Crise Métabolique à la Normalisation Spectaculaire sous Traitement",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b13 hypothyroidie autoimmune severe  de la crise metabolique a la normalisation spectaculaire sous traitement b13 hypothyroidie autoimmune severe  de la crise metabolique a la normalisation spectaculaire sous traitement.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B14 Approche in silico des inhibiteurs du cotransporteur sodium-glucose de type 2 (iSGLT2) dans le syndrome métabolique.pdf",
+              "nom": "B14 Approche in silico des inhibiteurs du cotransporteur sodium-glucose de type 2 (iSGLT2) dans le syndrome métabolique.pdf",
+              "titre": "B14 Approche in silico des inhibiteurs du cotransporteur sodium-glucose de type 2 (iSGLT2) dans le syndrome métabolique",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b14 approche in silico des inhibiteurs du cotransporteur sodium-glucose de type 2 (isglt2) dans le syndrome metabolique b14 approche in silico des inhibiteurs du cotransporteur sodium-glucose de type 2 (isglt2) dans le syndrome metabolique.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B15 Aspects clinico-métaboliques et approche nutritionnelle chez les femmes atteintes du Syndrome des ovaires polykystiques (SOPK).pdf",
+              "nom": "B15 Aspects clinico-métaboliques et approche nutritionnelle chez les femmes atteintes du Syndrome des ovaires polykystiques (SOPK).pdf",
+              "titre": "B15 Aspects clinico-métaboliques et approche nutritionnelle chez les femmes atteintes du Syndrome des ovaires polykystiques (SOPK)",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b15 aspects clinico-metaboliques et approche nutritionnelle chez les femmes atteintes du syndrome des ovaires polykystiques (sopk) b15 aspects clinico-metaboliques et approche nutritionnelle chez les femmes atteintes du syndrome des ovaires polykystiques (sopk).pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B16 Therapeutic Patterns and Glycemic Control in Type 2 Diabetes A Cross-Sectional Study in a Public Health Setting in Guelma, Algeria.pdf",
+              "nom": "B16 Therapeutic Patterns and Glycemic Control in Type 2 Diabetes A Cross-Sectional Study in a Public Health Setting in Guelma, Algeria.pdf",
+              "titre": "B16 Therapeutic Patterns and Glycemic Control in Type 2 Diabetes A Cross-Sectional Study in a Public Health Setting in Guelma, Algeria",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b16 therapeutic patterns and glycemic control in type 2 diabetes a cross-sectional study in a public health setting in guelma, algeria b16 therapeutic patterns and glycemic control in type 2 diabetes a cross-sectional study in a public health setting in guelma, algeria.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B17 CRI II quelle valeur décisionnelle dans la stratification du risque cardiovasculaire chez le diabetique de type2.pdf",
+              "nom": "B17 CRI II quelle valeur décisionnelle dans la stratification du risque cardiovasculaire chez le diabetique de type2.pdf",
+              "titre": "B17 CRI II quelle valeur décisionnelle dans la stratification du risque cardiovasculaire chez le diabetique de type2",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b17 cri ii quelle valeur decisionnelle dans la stratification du risque cardiovasculaire chez le diabetique de type2 b17 cri ii quelle valeur decisionnelle dans la stratification du risque cardiovasculaire chez le diabetique de type2.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B18 Au-delà de l'HbA1c  intérêt des indices TyG et AIP dans l'évaluation du risque athérogène chez les diabétiques de type 2.pdf",
+              "nom": "B18 Au-delà de l'HbA1c  intérêt des indices TyG et AIP dans l'évaluation du risque athérogène chez les diabétiques de type 2.pdf",
+              "titre": "B18 Au-delà de l'HbA1c  intérêt des indices TyG et AIP dans l'évaluation du risque athérogène chez les diabétiques de type 2",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b18 au-dela de l'hba1c  interet des indices tyg et aip dans l'evaluation du risque atherogene chez les diabetiques de type 2 b18 au-dela de l'hba1c  interet des indices tyg et aip dans l'evaluation du risque atherogene chez les diabetiques de type 2.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B19 Maladie de Basedow et santé hépatique  un facteur de risque pour la MASLD.pdf",
+              "nom": "B19 Maladie de Basedow et santé hépatique  un facteur de risque pour la MASLD.pdf",
+              "titre": "B19 Maladie de Basedow et santé hépatique  un facteur de risque pour la MASLD",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b19 maladie de basedow et sante hepatique  un facteur de risque pour la masld b19 maladie de basedow et sante hepatique  un facteur de risque pour la masld.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B20 Algorithme diagnostique de la carence martiale.pdf",
+              "nom": "B20 Algorithme diagnostique de la carence martiale.pdf",
+              "titre": "B20 Algorithme diagnostique de la carence martiale",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b20 algorithme diagnostique de la carence martiale b20 algorithme diagnostique de la carence martiale.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B21 Évaluation clinicobiologique du syndrome de malabsorption chez les patients atteints de maladie cœliaque sous régime sans gluten.pdf",
+              "nom": "B21 Évaluation clinicobiologique du syndrome de malabsorption chez les patients atteints de maladie cœliaque sous régime sans gluten.pdf",
+              "titre": "B21 Évaluation clinicobiologique du syndrome de malabsorption chez les patients atteints de maladie cœliaque sous régime sans gluten",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b21 evaluation clinicobiologique du syndrome de malabsorption chez les patients atteints de maladie cœliaque sous regime sans gluten b21 evaluation clinicobiologique du syndrome de malabsorption chez les patients atteints de maladie cœliaque sous regime sans gluten.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B22 Le profil vitaminique chez les sujets obèses à propos de 53 cas.pdf",
+              "nom": "B22 Le profil vitaminique chez les sujets obèses à propos de 53 cas.pdf",
+              "titre": "B22 Le profil vitaminique chez les sujets obèses à propos de 53 cas",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b22 le profil vitaminique chez les sujets obeses a propos de 53 cas b22 le profil vitaminique chez les sujets obeses a propos de 53 cas.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B23 Dépistage de la maladie rénale chronique chez les diabétiques type 2 du centre algérien.pdf",
+              "nom": "B23 Dépistage de la maladie rénale chronique chez les diabétiques type 2 du centre algérien.pdf",
+              "titre": "B23 Dépistage de la maladie rénale chronique chez les diabétiques type 2 du centre algérien",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b23 depistage de la maladie renale chronique chez les diabetiques type 2 du centre algerien b23 depistage de la maladie renale chronique chez les diabetiques type 2 du centre algerien.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B24 Intérêt prédictif de la myoglobine sérique dans la survenue de l'IRA.pdf",
+              "nom": "B24 Intérêt prédictif de la myoglobine sérique dans la survenue de l'IRA.pdf",
+              "titre": "B24 Intérêt prédictif de la myoglobine sérique dans la survenue de l'IRA",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b24 interet predictif de la myoglobine serique dans la survenue de l'ira b24 interet predictif de la myoglobine serique dans la survenue de l'ira.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B25 Hyperuticémie et diabéte de type 2.pdf",
+              "nom": "B25 Hyperuticémie et diabéte de type 2.pdf",
+              "titre": "B25 Hyperuticémie et diabéte de type 2",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b25 hyperuticemie et diabete de type 2 b25 hyperuticemie et diabete de type 2.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B26 Évaluation du risque cardiométabolique chez le diabétique de type 2  corrélation clinique entre le ratio TG HDL-c et l'équilibre glycémique.pdf",
+              "nom": "B26 Évaluation du risque cardiométabolique chez le diabétique de type 2  corrélation clinique entre le ratio TG HDL-c et l'équilibre glycémique.pdf",
+              "titre": "B26 Évaluation du risque cardiométabolique chez le diabétique de type 2  corrélation clinique entre le ratio TG HDL-c et l'équilibre glycémique",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b26 evaluation du risque cardiometabolique chez le diabetique de type 2  correlation clinique entre le ratio tg hdl-c et l'equilibre glycemique b26 evaluation du risque cardiometabolique chez le diabetique de type 2  correlation clinique entre le ratio tg hdl-c et l'equilibre glycemique.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B27 Évaluation du statut en vitamines B12 et B9 chez les patients présentant des troubles neurologiques  expérience d'un laboratoire de biochimie.pdf",
+              "nom": "B27 Évaluation du statut en vitamines B12 et B9 chez les patients présentant des troubles neurologiques  expérience d'un laboratoire de biochimie.pdf",
+              "titre": "B27 Évaluation du statut en vitamines B12 et B9 chez les patients présentant des troubles neurologiques  expérience d'un laboratoire de biochimie",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b27 evaluation du statut en vitamines b12 et b9 chez les patients presentant des troubles neurologiques  experience d'un laboratoire de biochimie b27 evaluation du statut en vitamines b12 et b9 chez les patients presentant des troubles neurologiques  experience d'un laboratoire de biochimie.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B28 Apport du quotient respiratoire dans l'identification des anomalies métaboliques précoces chez les patients obèses  étude observationnelle rétrospective.pdf",
+              "nom": "B28 Apport du quotient respiratoire dans l'identification des anomalies métaboliques précoces chez les patients obèses  étude observationnelle rétrospective.pdf",
+              "titre": "B28 Apport du quotient respiratoire dans l'identification des anomalies métaboliques précoces chez les patients obèses  étude observationnelle rétrospective",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b28 apport du quotient respiratoire dans l'identification des anomalies metaboliques precoces chez les patients obeses  etude observationnelle retrospective b28 apport du quotient respiratoire dans l'identification des anomalies metaboliques precoces chez les patients obeses  etude observationnelle retrospective.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B29 Association entre le métabolisme énergétique de repos et les anomalies du profil lipidique chez les patients en surcharge pondérale  étude rétrospective.pdf",
+              "nom": "B29 Association entre le métabolisme énergétique de repos et les anomalies du profil lipidique chez les patients en surcharge pondérale  étude rétrospective.pdf",
+              "titre": "B29 Association entre le métabolisme énergétique de repos et les anomalies du profil lipidique chez les patients en surcharge pondérale  étude rétrospective",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b29 association entre le metabolisme energetique de repos et les anomalies du profil lipidique chez les patients en surcharge ponderale  etude retrospective b29 association entre le metabolisme energetique de repos et les anomalies du profil lipidique chez les patients en surcharge ponderale  etude retrospective.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B30 Prévalence des anomalies du bilan hépatique chez les patients obèses et leur association avec les paramètres anthropomorphiques  étude rétrospective.pdf",
+              "nom": "B30 Prévalence des anomalies du bilan hépatique chez les patients obèses et leur association avec les paramètres anthropomorphiques  étude rétrospective.pdf",
+              "titre": "B30 Prévalence des anomalies du bilan hépatique chez les patients obèses et leur association avec les paramètres anthropomorphiques  étude rétrospective",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b30 prevalence des anomalies du bilan hepatique chez les patients obeses et leur association avec les parametres anthropomorphiques  etude retrospective b30 prevalence des anomalies du bilan hepatique chez les patients obeses et leur association avec les parametres anthropomorphiques  etude retrospective.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B31 Facteurs de variabilité du PSA impact de l'âge et de l'hypertrophie bénigne de la prostate (HBP) sur une cohorte de 200 dossiers de patients.pdf",
+              "nom": "B31 Facteurs de variabilité du PSA impact de l'âge et de l'hypertrophie bénigne de la prostate (HBP) sur une cohorte de 200 dossiers de patients.pdf",
+              "titre": "B31 Facteurs de variabilité du PSA impact de l'âge et de l'hypertrophie bénigne de la prostate (HBP) sur une cohorte de 200 dossiers de patients",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b31 facteurs de variabilite du psa impact de l'age et de l'hypertrophie benigne de la prostate (hbp) sur une cohorte de 200 dossiers de patients b31 facteurs de variabilite du psa impact de l'age et de l'hypertrophie benigne de la prostate (hbp) sur une cohorte de 200 dossiers de patients.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B32 Dysfonction thyroïdiennes et Accident Vasculaire Cérébral  profils comparatifs entre AVC ischémique et hémorragique.pdf",
+              "nom": "B32 Dysfonction thyroïdiennes et Accident Vasculaire Cérébral  profils comparatifs entre AVC ischémique et hémorragique.pdf",
+              "titre": "B32 Dysfonction thyroïdiennes et Accident Vasculaire Cérébral  profils comparatifs entre AVC ischémique et hémorragique",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b32 dysfonction thyroidiennes et accident vasculaire cerebral  profils comparatifs entre avc ischemique et hemorragique b32 dysfonction thyroidiennes et accident vasculaire cerebral  profils comparatifs entre avc ischemique et hemorragique.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B33 impact de l'obésité sur le profil cardiométabolique des patients atteints de diabète de type 2.pdf",
+              "nom": "B33 impact de l'obésité sur le profil cardiométabolique des patients atteints de diabète de type 2.pdf",
+              "titre": "B33 impact de l'obésité sur le profil cardiométabolique des patients atteints de diabète de type 2",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b33 impact de l'obesite sur le profil cardiometabolique des patients atteints de diabete de type 2 b33 impact de l'obesite sur le profil cardiometabolique des patients atteints de diabete de type 2.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B34 Statut vitaminique et pathologies neurovasculaires étude des concentrations des vitamines B9,B12 et D.pdf",
+              "nom": "B34 Statut vitaminique et pathologies neurovasculaires étude des concentrations des vitamines B9,B12 et D.pdf",
+              "titre": "B34 Statut vitaminique et pathologies neurovasculaires étude des concentrations des vitamines B9,B12 et D",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b34 statut vitaminique et pathologies neurovasculaires etude des concentrations des vitamines b9,b12 et d b34 statut vitaminique et pathologies neurovasculaires etude des concentrations des vitamines b9,b12 et d.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B35 L'hyperuricémie asymptomatique, un signal précoce du risque cardiométabolique.pdf",
+              "nom": "B35 L'hyperuricémie asymptomatique, un signal précoce du risque cardiométabolique.pdf",
+              "titre": "B35 L'hyperuricémie asymptomatique, un signal précoce du risque cardiométabolique",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b35 l'hyperuricemie asymptomatique, un signal precoce du risque cardiometabolique b35 l'hyperuricemie asymptomatique, un signal precoce du risque cardiometabolique.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B36 Acide urique et métabolisme phosphocalcique au cours de la grossesse physiologique  étude analytique transversale.pdf",
+              "nom": "B36 Acide urique et métabolisme phosphocalcique au cours de la grossesse physiologique  étude analytique transversale.pdf",
+              "titre": "B36 Acide urique et métabolisme phosphocalcique au cours de la grossesse physiologique  étude analytique transversale",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b36 acide urique et metabolisme phosphocalcique au cours de la grossesse physiologique  etude analytique transversale b36 acide urique et metabolisme phosphocalcique au cours de la grossesse physiologique  etude analytique transversale.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B37 Apport de la biochimie médicale dans le diagnostic précoce d'une rhabdomyolyse chez un polytraumatisé à propos d'un cas.pdf",
+              "nom": "B37 Apport de la biochimie médicale dans le diagnostic précoce d'une rhabdomyolyse chez un polytraumatisé à propos d'un cas.pdf",
+              "titre": "B37 Apport de la biochimie médicale dans le diagnostic précoce d'une rhabdomyolyse chez un polytraumatisé à propos d'un cas",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b37 apport de la biochimie medicale dans le diagnostic precoce d'une rhabdomyolyse chez un polytraumatise a propos d'un cas b37 apport de la biochimie medicale dans le diagnostic precoce d'une rhabdomyolyse chez un polytraumatise a propos d'un cas.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B38 Les explorations dynamiques en biochimie médicale au cœur de la démarche diagnostique du diabète insipide central ,à propos d'un cas clinique.pdf",
+              "nom": "B38 Les explorations dynamiques en biochimie médicale au cœur de la démarche diagnostique du diabète insipide central ,à propos d'un cas clinique.pdf",
+              "titre": "B38 Les explorations dynamiques en biochimie médicale au cœur de la démarche diagnostique du diabète insipide central ,à propos d'un cas clinique",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b38 les explorations dynamiques en biochimie medicale au cœur de la demarche diagnostique du diabete insipide central ,a propos d'un cas clinique b38 les explorations dynamiques en biochimie medicale au cœur de la demarche diagnostique du diabete insipide central ,a propos d'un cas clinique.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B40 Le rôle des biomarqueurs de l'obésité dans la prévention en santé au travail  cas des postes sédentaires.pdf",
+              "nom": "B40 Le rôle des biomarqueurs de l'obésité dans la prévention en santé au travail  cas des postes sédentaires.pdf",
+              "titre": "B40 Le rôle des biomarqueurs de l'obésité dans la prévention en santé au travail  cas des postes sédentaires",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b40 le role des biomarqueurs de l'obesite dans la prevention en sante au travail  cas des postes sedentaires b40 le role des biomarqueurs de l'obesite dans la prevention en sante au travail  cas des postes sedentaires.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B41 Biomarqueurs biochimiques du stress professionnel chronique chez les personnels soignants  état des connaissances.pdf",
+              "nom": "B41 Biomarqueurs biochimiques du stress professionnel chronique chez les personnels soignants  état des connaissances.pdf",
+              "titre": "B41 Biomarqueurs biochimiques du stress professionnel chronique chez les personnels soignants  état des connaissances",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b41 biomarqueurs biochimiques du stress professionnel chronique chez les personnels soignants  etat des connaissances b41 biomarqueurs biochimiques du stress professionnel chronique chez les personnels soignants  etat des connaissances.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B42 Décrypter le lien caché entre anomalies vasculaires et microalbuminurie chez les patients diabétiques.pdf",
+              "nom": "B42 Décrypter le lien caché entre anomalies vasculaires et microalbuminurie chez les patients diabétiques.pdf",
+              "titre": "B42 Décrypter le lien caché entre anomalies vasculaires et microalbuminurie chez les patients diabétiques",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b42 decrypter le lien cache entre anomalies vasculaires et microalbuminurie chez les patients diabetiques b42 decrypter le lien cache entre anomalies vasculaires et microalbuminurie chez les patients diabetiques.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B43 Carence en vitamineD chez les patients atteints de thyroidite d'Hashimoto evaluation de la prevalence et des facteurs de risque.pdf",
+              "nom": "B43 Carence en vitamineD chez les patients atteints de thyroidite d'Hashimoto evaluation de la prevalence et des facteurs de risque.pdf",
+              "titre": "B43 Carence en vitamineD chez les patients atteints de thyroidite d'Hashimoto evaluation de la prevalence et des facteurs de risque",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b43 carence en vitamined chez les patients atteints de thyroidite d'hashimoto evaluation de la prevalence et des facteurs de risque b43 carence en vitamined chez les patients atteints de thyroidite d'hashimoto evaluation de la prevalence et des facteurs de risque.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B44 Hypocalcémie vraie ou apparente  apport de la correction par l'albumine sérique dans la reclassification diagnostique des dyscalcémies.pdf",
+              "nom": "B44 Hypocalcémie vraie ou apparente  apport de la correction par l'albumine sérique dans la reclassification diagnostique des dyscalcémies.pdf",
+              "titre": "B44 Hypocalcémie vraie ou apparente  apport de la correction par l'albumine sérique dans la reclassification diagnostique des dyscalcémies",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b44 hypocalcemie vraie ou apparente  apport de la correction par l'albumine serique dans la reclassification diagnostique des dyscalcemies b44 hypocalcemie vraie ou apparente  apport de la correction par l'albumine serique dans la reclassification diagnostique des dyscalcemies.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B45 Intérêt du ratio TG HDL cholestérol comme biomarqueur d'orientation.pdf",
+              "nom": "B45 Intérêt du ratio TG HDL cholestérol comme biomarqueur d'orientation.pdf",
+              "titre": "B45 Intérêt du ratio TG HDL cholestérol comme biomarqueur d'orientation",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b45 interet du ratio tg hdl cholesterol comme biomarqueur d'orientation b45 interet du ratio tg hdl cholesterol comme biomarqueur d'orientation.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B48 Prévention du diabète en milieu professionnel rôle du dépistage et enjeux de santé au travail.pdf",
+              "nom": "B48 Prévention du diabète en milieu professionnel rôle du dépistage et enjeux de santé au travail.pdf",
+              "titre": "B48 Prévention du diabète en milieu professionnel rôle du dépistage et enjeux de santé au travail",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b48 prevention du diabete en milieu professionnel role du depistage et enjeux de sante au travail b48 prevention du diabete en milieu professionnel role du depistage et enjeux de sante au travail.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B49 Indice TyG et syndrome métabolique quelle performance diagnostique.pdf",
+              "nom": "B49 Indice TyG et syndrome métabolique quelle performance diagnostique.pdf",
+              "titre": "B49 Indice TyG et syndrome métabolique quelle performance diagnostique",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b49 indice tyg et syndrome metabolique quelle performance diagnostique b49 indice tyg et syndrome metabolique quelle performance diagnostique.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B50 Le visage caché du syndrome métabolique chez les hommes diabétiques de type 2 les ingrédients du cocktail cardiométabolique.pdf",
+              "nom": "B50 Le visage caché du syndrome métabolique chez les hommes diabétiques de type 2 les ingrédients du cocktail cardiométabolique.pdf",
+              "titre": "B50 Le visage caché du syndrome métabolique chez les hommes diabétiques de type 2 les ingrédients du cocktail cardiométabolique",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b50 le visage cache du syndrome metabolique chez les hommes diabetiques de type 2 les ingredients du cocktail cardiometabolique b50 le visage cache du syndrome metabolique chez les hommes diabetiques de type 2 les ingredients du cocktail cardiometabolique.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B51 TyG BMI et ses déterminants métaboliques.pdf",
+              "nom": "B51 TyG BMI et ses déterminants métaboliques.pdf",
+              "titre": "B51 TyG BMI et ses déterminants métaboliques",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b51 tyg bmi et ses determinants metaboliques b51 tyg bmi et ses determinants metaboliques.pdf biochimie maladies_metaboliques"
+            }
+          ]
         },
         {
           "slug": "defis_vie",
