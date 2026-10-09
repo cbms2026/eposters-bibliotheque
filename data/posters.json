@@ -1388,7 +1388,89 @@
         {
           "slug": "immunodiagnostic",
           "titre": "Nouveautés en immunodiagnostic",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I1 Dosage des chaines légères libres sériques.pdf",
+              "nom": "I1 Dosage des chaines légères libres sériques.pdf",
+              "titre": "I1 Dosage des chaines légères libres sériques",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i1 dosage des chaines legeres libres seriques i1 dosage des chaines legeres libres seriques.pdf immunologie immunodiagnostic"
+            },
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I2 Analytical Performance of a Fecal Extraction Device Versus Manual - Copy.pdf",
+              "nom": "I2 Analytical Performance of a Fecal Extraction Device Versus Manual - Copy.pdf",
+              "titre": "I2 Analytical Performance of a Fecal Extraction Device Versus Manual - Copy",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i2 analytical performance of a fecal extraction device versus manual - copy i2 analytical performance of a fecal extraction device versus manual - copy.pdf immunologie immunodiagnostic"
+            },
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I3 Diagnostic Value of Fecal Calprotectin in Distinguishing Crohn’s Disease from Ulcerative Colitis in Adults.pdf",
+              "nom": "I3 Diagnostic Value of Fecal Calprotectin in Distinguishing Crohn’s Disease from Ulcerative Colitis in Adults.pdf",
+              "titre": "I3 Diagnostic Value of Fecal Calprotectin in Distinguishing Crohn’s Disease from Ulcerative Colitis in Adults",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i3 diagnostic value of fecal calprotectin in distinguishing crohn’s disease from ulcerative colitis in adults i3 diagnostic value of fecal calprotectin in distinguishing crohn’s disease from ulcerative colitis in adults.pdf immunologie immunodiagnostic"
+            },
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I4 Trompe l'œil en immunologie interférence de la positivité des ANA sur la recherche des ANCA par IFI sur frottis des PNNs.pdf",
+              "nom": "I4 Trompe l'œil en immunologie interférence de la positivité des ANA sur la recherche des ANCA par IFI sur frottis des PNNs.pdf",
+              "titre": "I4 Trompe l'œil en immunologie interférence de la positivité des ANA sur la recherche des ANCA par IFI sur frottis des PNNs",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i4 trompe l'œil en immunologie interference de la positivite des ana sur la recherche des anca par ifi sur frottis des pnns i4 trompe l'œil en immunologie interference de la positivite des ana sur la recherche des anca par ifi sur frottis des pnns.pdf immunologie immunodiagnostic"
+            },
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I5 Corrélation entre les autoanticorps gastriques et le déficit en vitamine B12.pdf",
+              "nom": "I5 Corrélation entre les autoanticorps gastriques et le déficit en vitamine B12.pdf",
+              "titre": "I5 Corrélation entre les autoanticorps gastriques et le déficit en vitamine B12",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i5 correlation entre les autoanticorps gastriques et le deficit en vitamine b12 i5 correlation entre les autoanticorps gastriques et le deficit en vitamine b12.pdf immunologie immunodiagnostic"
+            },
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I6 Biomarqueurs du myélome multiple Quoi de neuf.pdf",
+              "nom": "I6 Biomarqueurs du myélome multiple Quoi de neuf.pdf",
+              "titre": "I6 Biomarqueurs du myélome multiple Quoi de neuf",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i6 biomarqueurs du myelome multiple quoi de neuf i6 biomarqueurs du myelome multiple quoi de neuf.pdf immunologie immunodiagnostic"
+            },
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I7 Au-delà des DSA et de la biopsie  le dd-cfDNA et les chimiokines urinaires CXCL9 CXCL10, nouvelles sentinelles non invasives du rejet du greffon rénal.pdf",
+              "nom": "I7 Au-delà des DSA et de la biopsie  le dd-cfDNA et les chimiokines urinaires CXCL9 CXCL10, nouvelles sentinelles non invasives du rejet du greffon rénal.pdf",
+              "titre": "I7 Au-delà des DSA et de la biopsie  le dd-cfDNA et les chimiokines urinaires CXCL9 CXCL10, nouvelles sentinelles non invasives du rejet du greffon rénal",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i7 au-dela des dsa et de la biopsie  le dd-cfdna et les chimiokines urinaires cxcl9 cxcl10, nouvelles sentinelles non invasives du rejet du greffon renal i7 au-dela des dsa et de la biopsie  le dd-cfdna et les chimiokines urinaires cxcl9 cxcl10, nouvelles sentinelles non invasives du rejet du greffon renal.pdf immunologie immunodiagnostic"
+            },
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I8 Intérêt_des_marqueurs_immunologiques_dans_le_suivi_de_la_néphropathie_lupique.pdf",
+              "nom": "I8 Intérêt_des_marqueurs_immunologiques_dans_le_suivi_de_la_néphropathie_lupique.pdf",
+              "titre": "I8 Intérêt des marqueurs immunologiques dans le suivi de la néphropathie lupique",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i8 interet des marqueurs immunologiques dans le suivi de la nephropathie lupique i8 interet_des_marqueurs_immunologiques_dans_le_suivi_de_la_nephropathie_lupique.pdf immunologie immunodiagnostic"
+            },
+            {
+              "fichier": "immunologie/themes/immunodiagnostic/I9 Apport du test de libération de l'interféron gamma (IGRA) dans le dépistage de l'infection tuberculeuse latente  expérience du service de biochimie - CHU d'Oran.pdf",
+              "nom": "I9 Apport du test de libération de l'interféron gamma (IGRA) dans le dépistage de l'infection tuberculeuse latente  expérience du service de biochimie - CHU d'Oran.pdf",
+              "titre": "I9 Apport du test de libération de l'interféron gamma (IGRA) dans le dépistage de l'infection tuberculeuse latente  expérience du service de biochimie - CHU d'Oran",
+              "specialite": "immunologie",
+              "theme": "immunodiagnostic",
+              "vignette": null,
+              "recherche": "i9 apport du test de liberation de l'interferon gamma (igra) dans le depistage de l'infection tuberculeuse latente  experience du service de biochimie - chu d'oran i9 apport du test de liberation de l'interferon gamma (igra) dans le depistage de l'infection tuberculeuse latente  experience du service de biochimie - chu d'oran.pdf immunologie immunodiagnostic"
+            }
+          ]
         },
         {
           "slug": "maladies_autoimmunes",
