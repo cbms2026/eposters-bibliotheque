@@ -37,7 +37,7 @@ document.head.appendChild(
 );
 
 const vue = () => document.getElementById("vue");
-const norm = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const norm = (s) => (s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
 /* ---------- Chargement (robuste : un fichier manquant ne bloque pas le site) ---------- */
 async function charger() {
@@ -228,4 +228,4 @@ function router() {
 
 window.addEventListener("hashchange", router);
 charger().then(() => { configurerRecherche(); router(); });
-                                                  
+                                                                   
