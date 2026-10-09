@@ -1,37 +1,62 @@
 /* Bibliothèque des e-posters — SPA sans dépendance.
+ * Accueil : les 4 spécialités sont affichées avec leurs thèmes et leurs
+ * e-posters (accordéons repliables).
  * Routeur par hash :
- *   #/                       accueil (spécialités)
- *   #/s/<specialite>         thèmes de la spécialité
- *   #/s/<spec>/t/<theme>     e-posters du thème
+ *   #/                       accueil (arborescence complète)
+ *   #/s/<specialite>         vue d'une seule spécialité
+ *   #/s/<spec>/t/<theme>     e-posters d'un seul thème
  *   #/p/<chemin.pdf>         lecteur PDF
  */
 
 "use strict";
 
 const ICÔNES = { biochimie: "🧪", microbiologie: "🦠", hemobiologie: "🩸", immunologie: "🧬", programme: "📋" };
-const NOMS_SPECS = { programme: "Programme du congrès" };
 
 let DONNEES = null;      // data/posters.json
-let RECHERCHE = null;    // résumés du carnet d'abstracts
+let RECHERCHE = null;    // résumés du carnet d'abstracts (peut être vide)
+
+const CSS_ACCUEIL = `
+.spec{background:#fff;border-radius:16px;box-shadow:0 2px 10px rgba(16,28,78,.12);
+margin-bottom:1rem;overflow:hidden;border-left:6px solid var(--couleur,#0E8A72)}
+.spec__tete{display:flex;align-items:center;gap:.8rem;padding:1rem 1.2rem;cursor:pointer;
+list-style:none;font-weight:800;font-size:1.08rem;-webkit-tap-highlight-color:transparent}
+.spec__tete::-webkit-details-marker{display:none}
+.spec__tete::after{content:"▾";margin-left:auto;color:#B8C0D4;font-size:1.2rem;transition:transform .2s}
+.spec:not([open]) .spec__tete::after{transform:rotate(-90deg)}
+.spec__icone{font-size:1.5rem}.spec__titre{flex:1}
+.spec__nb{font-size:.74rem;font-weight:600;color:#40505F;background:#F2F4F8;
+border-radius:999px;padding:.25rem .65rem;white-space:nowrap}
+.spec__corps{padding:0 1rem 1.1rem}
+.theme-bloc{margin-bottom:.4rem}
+.theme-bloc__titre{font-size:.92rem;font-weight:700;color:var(--couleur,#0E8A72);
+margin:.7rem 0 .5rem;padding-top:.7rem;border-top:1px dashed #E3E8F2}
+.theme-bloc .vide{padding:.5rem 0 .7rem;text-align:left;font-size:.85rem}
+`;
+document.head.appendChild(
+  Object.assign(document.createElement("style"), { textContent: CSS_ACCUEIL })
+);
 
 const vue = () => document.getElementById("vue");
-const norm = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+const norm = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
-/* ---------- Chargement ---------- */
+/* ---------- Chargement (robuste : un fichier manquant ne bloque pas le site) ---------- */
 async function charger() {
-  const [posters, ...fichiers] = await Promise.all([
-    fetch("data/posters.json").then((r) => r.json()),
-    fetch("assets/recherche/microbiologie.json").then((r) => r.json()),
-    fetch("assets/recherche/immunologie.json").then((r) => r.json()),
-    fetch("assets/recherche/hemobiologie.json").then((r) => r.json()),
-    fetch("assets/recherche/articles.json").then((r) => r.json()),
+  const lire = (url) =>
+    fetch(url).then((r) => (r.ok ? r.json() : [])).catch(() => []);
+  const [posters, m, i, h, a] = await Promise.all([
+    lire("data/posters.json"),
+    lire("assets/recherche/microbiologie.json"),
+    lire("assets/recherche/immunologie.json"),
+    lire("assets/recherche/hemobiologie.json"),
+    lire("assets/recherche/articles.json"),
   ]);
   DONNEES = posters;
-  RECHERCHE = fichiers.flat().filter(Boolean);
+  RECHERCHE = [m, i, h, a].flat().filter((x) => x && x.numero);
+
   const programme = posters.programme?.[0];
   if (programme) {
     document.getElementById("heroActions").innerHTML =
-      `<a class="bouton-programme" href="#/p/${encodeURIComponent(programme.fichier)}">📋 Programme du congrès</a>`;
+      `<a class="bouton-programme" href="#/p/${encodeURI(programme.fichier)}">📋 Programme du congrès</a>`;
   }
 }
 
@@ -46,50 +71,60 @@ function nbPostersSpec(spec) {
     spec.themes_autres.reduce((n, t) => n + t.posters.length, 0);
 }
 
-function afficherAccueil() {
-  const specs = DONNEES.specialites.map((s) => `
-    <a class="carte-lien" style="--couleur:${s.couleur}" href="#/s/${s.slug}">
-      <span class="carte-lien__icone">${ICÔNES[s.slug] || "📄"}</span>
-      <span>
-        <span class="carte-lien__titre">${s.titre}</span><br>
-        <span class="carte-lien__sous-titre">${nbPostersSpec(s)} e-poster(s) · ${s.themes.length} thèmes</span>
-      </span>
-      <span class="carte-lien__fleche">›</span>
-    </a>`).join("");
+function blocTheme(t, couleur) {
+  return `
+    <div class="theme-bloc">
+      <div class="theme-bloc__titre">${t.titre}</div>
+      ${t.posters.length
+        ? t.posters.map((p) => cartePoster(p, couleur)).join("")
+        : `<div class="vide">Aucun e-poster pour le moment</div>`}
+    </div>`;
+}
 
-  vue().innerHTML = `
-    <h2 class="titre-section">📚 Spécialités</h2>
-    <div class="grille">${specs}</div>`;
+/* Accueil : tout est visible — spécialités > thèmes > e-posters */
+function afficherAccueil() {
+  vue().innerHTML = DONNEES.specialites.map((s, idx) => `
+    <details class="spec" style="--couleur:${s.couleur}" ${idx === 0 ? "open" : ""}>
+      <summary class="spec__tete">
+        <span class="spec__icone">${ICÔNES[s.slug] || "📄"}</span>
+        <span class="spec__titre">${s.titre}</span>
+        <span class="spec__nb">${nbPostersSpec(s)} e-poster(s) · ${s.themes.length} thèmes</span>
+      </summary>
+      <div class="spec__corps">
+        ${s.posters_racine.map((p) => cartePoster(p, s.couleur)).join("")}
+        ${[...s.themes, ...s.themes_autres].map((t) => blocTheme(t, s.couleur)).join("")}
+      </div>
+    </details>`).join("");
 }
 
 function afficherSpecialite(slug) {
   const spec = specParSlug(slug);
   if (!spec) { location.hash = "#/"; return; }
-  const tousThemes = [...spec.themes, ...spec.themes_autres];
-  const racine = spec.posters_racine.map((p) => cartePoster(p, spec.couleur)).join("");
-
   vue().innerHTML = `
     <nav class="fil-ariane"><a href="#/">Accueil</a> › <strong>${spec.titre}</strong></nav>
     <h2 class="titre-section">${ICÔNES[slug] || "📄"} ${spec.titre}</h2>
-    ${racine ? `<h3 class="titre-section">Généraux</h3>${racine}` : ""}
-    <h3 class="titre-section">Thèmes officiels</h3>
-    <div class="grille grille--themes">
-      ${tousThemes.map((t) => `
-        <a class="carte-lien" style="--couleur:${spec.couleur}" href="#/s/${slug}/t/${t.slug}">
-          <span class="carte-lien__icone">${ICÔNES[slug]}</span>
-          <span>
-            <span class="carte-lien__titre">${t.titre}</span><br>
-            <span class="carte-lien__sous-titre">${t.posters.length} e-poster(s)</span>
-          </span>
-          <span class="carte-lien__fleche">›</span>
-        </a>`).join("")}
-    </div>`;
+    ${spec.posters_racine.map((p) => cartePoster(p, spec.couleur)).join("")}
+    ${[...spec.themes, ...spec.themes_autres].map((t) => blocTheme(t, spec.couleur)).join("")}`;
+}
+
+function afficherTheme(slug, slugTheme) {
+  const spec = specParSlug(slug);
+  const theme = spec && [...spec.themes, ...spec.themes_autres].find((t) => t.slug === slugTheme);
+  if (!theme) { location.hash = `#/s/${slug}`; return; }
+  vue().innerHTML = `
+    <nav class="fil-ariane">
+      <a href="#/">Accueil</a> › <a href="#/s/${slug}">${spec.titre}</a> › <strong>${theme.titre}</strong>
+    </nav>
+    <h2 class="titre-section">${theme.titre}</h2>
+    ${theme.posters.length
+      ? theme.posters.map((p) => cartePoster(p, spec.couleur)).join("")
+      : `<div class="carte vide">Aucun e-poster pour le moment.</div>`}`;
 }
 
 function cartePoster(p, couleur) {
   const apercu = p.vignette
     ? `<img class="poster__img" src="${p.vignette}" alt="" loading="lazy"
-           onerror="this.outerHTML='<span class=\'poster__icone\'>📄</span>'">`
+           onerror="this.outerHTML='<span class=\\'poster__icone\\'>📄</span>'">`
     : `<span class="poster__icone">📄</span>`;
   return `
     <a class="poster" style="--couleur:${couleur}" href="#/p/${encodeURI(p.fichier)}">
@@ -100,21 +135,6 @@ function cartePoster(p, couleur) {
       </span>
       <span class="poster__fleche">›</span>
     </a>`;
-}
-
-function afficherTheme(slug, slugTheme) {
-  const spec = specParSlug(slug);
-  const theme = spec && [...spec.themes, ...spec.themes_autres].find((t) => t.slug === slugTheme);
-  if (!theme) { location.hash = `#/s/${slug}`; return; }
-
-  vue().innerHTML = `
-    <nav class="fil-ariane">
-      <a href="#/">Accueil</a> › <a href="#/s/${slug}">${spec.titre}</a> › <strong>${theme.titre}</strong>
-    </nav>
-    <h2 class="titre-section">${theme.titre}</h2>
-    ${theme.posters.length
-      ? theme.posters.map((p) => cartePoster(p, spec.couleur)).join("")
-      : `<div class="carte vide">Aucun e-poster pour le moment.</div>`}`;
 }
 
 function afficherLecteur(chemin) {
@@ -163,7 +183,7 @@ function rechercher(q) {
       ...spec.themes.flatMap((t) => t.posters),
       ...spec.themes_autres.flatMap((t) => t.posters)];
     for (const p of tous) {
-      if (p.recherche.includes(q)) {
+      if (norm(p.recherche).includes(q)) {
         res.push({
           lien: `#/p/${encodeURI(p.fichier)}`,
           puce: "📄", titre: p.titre, meta: spec.titre,
@@ -208,3 +228,4 @@ function router() {
 
 window.addEventListener("hashchange", router);
 charger().then(() => { configurerRecherche(); router(); });
+                                                  
