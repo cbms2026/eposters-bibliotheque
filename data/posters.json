@@ -48,7 +48,53 @@
         {
           "slug": "hygiene_hospitaliere",
           "titre": "Hygiène hospitalière",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "microbiologie/themes/hygiene_hospitaliere/M20 Évaluation du portage bactérien manuel chez le personnel soignant en milieu hospitalier.pdf",
+              "nom": "M20 Évaluation du portage bactérien manuel chez le personnel soignant en milieu hospitalier.pdf",
+              "titre": "M20 Évaluation du portage bactérien manuel chez le personnel soignant en milieu hospitalier",
+              "specialite": "microbiologie",
+              "theme": "hygiene_hospitaliere",
+              "vignette": null,
+              "recherche": "m20 evaluation du portage bacterien manuel chez le personnel soignant en milieu hospitalier m20 evaluation du portage bacterien manuel chez le personnel soignant en milieu hospitalier.pdf microbiologie hygiene_hospitaliere"
+            },
+            {
+              "fichier": "microbiologie/themes/hygiene_hospitaliere/M22 Hygiène hospitalière et gestion des déchets médicaux  État des lieux et perspectives de durabilité au CHU Ibn Badis (Constantine, Algérie).pdf",
+              "nom": "M22 Hygiène hospitalière et gestion des déchets médicaux  État des lieux et perspectives de durabilité au CHU Ibn Badis (Constantine, Algérie).pdf",
+              "titre": "M22 Hygiène hospitalière et gestion des déchets médicaux  État des lieux et perspectives de durabilité au CHU Ibn Badis (Constantine, Algérie)",
+              "specialite": "microbiologie",
+              "theme": "hygiene_hospitaliere",
+              "vignette": null,
+              "recherche": "m22 hygiene hospitaliere et gestion des dechets medicaux  etat des lieux et perspectives de durabilite au chu ibn badis (constantine, algerie) m22 hygiene hospitaliere et gestion des dechets medicaux  etat des lieux et perspectives de durabilite au chu ibn badis (constantine, algerie).pdf microbiologie hygiene_hospitaliere"
+            },
+            {
+              "fichier": "microbiologie/themes/hygiene_hospitaliere/M39 Prévention des infections associées aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030.pdf",
+              "nom": "M39 Prévention des infections associées aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030.pdf",
+              "titre": "M39 Prévention des infections associées aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030",
+              "specialite": "microbiologie",
+              "theme": "hygiene_hospitaliere",
+              "vignette": null,
+              "recherche": "m39 prevention des infections associees aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030 m39 prevention des infections associees aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030.pdf microbiologie hygiene_hospitaliere"
+            },
+            {
+              "fichier": "microbiologie/themes/hygiene_hospitaliere/M42 Un germe inhabituel incriminé aux   infections liées aux cathéters tunnélisés d’hémodialyse .pdf",
+              "nom": "M42 Un germe inhabituel incriminé aux   infections liées aux cathéters tunnélisés d’hémodialyse .pdf",
+              "titre": "M42 Un germe inhabituel incriminé aux   infections liées aux cathéters tunnélisés d’hémodialyse",
+              "specialite": "microbiologie",
+              "theme": "hygiene_hospitaliere",
+              "vignette": null,
+              "recherche": "m42 un germe inhabituel incrimine aux   infections liees aux catheters tunnelises d’hemodialyse m42 un germe inhabituel incrimine aux   infections liees aux catheters tunnelises d’hemodialyse .pdf microbiologie hygiene_hospitaliere"
+            },
+            {
+              "fichier": "microbiologie/themes/hygiene_hospitaliere/M61 Résultats de l’audit sur le tri des DASRI au niveau CHU de Sétif juin 2026.pdf",
+              "nom": "M61 Résultats de l’audit sur le tri des DASRI au niveau CHU de Sétif juin 2026.pdf",
+              "titre": "M61 Résultats de l’audit sur le tri des DASRI au niveau CHU de Sétif juin 2026",
+              "specialite": "microbiologie",
+              "theme": "hygiene_hospitaliere",
+              "vignette": null,
+              "recherche": "m61 resultats de l’audit sur le tri des dasri au niveau chu de setif juin 2026 m61 resultats de l’audit sur le tri des dasri au niveau chu de setif juin 2026.pdf microbiologie hygiene_hospitaliere"
+            }
+          ]
         },
         {
           "slug": "maladies_emergentes",
