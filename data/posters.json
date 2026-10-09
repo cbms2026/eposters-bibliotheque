@@ -1398,7 +1398,26 @@
         {
           "slug": "maladies_rares",
           "titre": "Maladies immunologiques rares",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "immunologie/themes/maladies_rares/I19 Where Do We Stand on AntiKu Antibodies Prevalence and Clinical Impact in Light of Recent Findings.pdf",
+              "nom": "I19 Where Do We Stand on AntiKu Antibodies Prevalence and Clinical Impact in Light of Recent Findings.pdf",
+              "titre": "I19 Where Do We Stand on AntiKu Antibodies Prevalence and Clinical Impact in Light of Recent Findings",
+              "specialite": "immunologie",
+              "theme": "maladies_rares",
+              "vignette": null,
+              "recherche": "i19 where do we stand on antiku antibodies prevalence and clinical impact in light of recent findings i19 where do we stand on antiku antibodies prevalence and clinical impact in light of recent findings.pdf immunologie maladies_rares"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_rares/I20 Place du système HLA dansl’exploration de l’infertilité du couple.pdf",
+              "nom": "I20 Place du système HLA dansl’exploration de l’infertilité du couple.pdf",
+              "titre": "I20 Place du système HLA dansl’exploration de l’infertilité du couple",
+              "specialite": "immunologie",
+              "theme": "maladies_rares",
+              "vignette": null,
+              "recherche": "i20 place du systeme hla dansl’exploration de l’infertilite du couple i20 place du systeme hla dansl’exploration de l’infertilite du couple.pdf immunologie maladies_rares"
+            }
+          ]
         },
         {
           "slug": "biotherapies",
