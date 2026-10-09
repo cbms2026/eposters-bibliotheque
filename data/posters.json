@@ -1364,7 +1364,152 @@
         {
           "slug": "transformation_digitale",
           "titre": "Transformation digitale en hémobiologie : sécurité transfusionnelle et innovation en cytaphérèse",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H37. From Storage Lesion to Biological Signaling.pdf",
+              "nom": "H37. From Storage Lesion to Biological Signaling.pdf",
+              "titre": "H37. From Storage Lesion to Biological Signaling",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h37. from storage lesion to biological signaling h37. from storage lesion to biological signaling.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H38. les patients alloimmunisé, vers une transfusion personnalisé.pdf",
+              "nom": "H38. les patients alloimmunisé, vers une transfusion personnalisé.pdf",
+              "titre": "H38. les patients alloimmunisé, vers une transfusion personnalisé",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h38. les patients alloimmunise, vers une transfusion personnalise h38. les patients alloimmunise, vers une transfusion personnalise.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H39. L’INTÉRÊT DU PHÉNOTYPAGE ÉRYTHROCYTAIRE DANS LA SÉCURITÉ TRANSFUSIONNELLE CHEZ LES PATIENTS POLYTRANSFUSÉS.pdf",
+              "nom": "H39. L’INTÉRÊT DU PHÉNOTYPAGE ÉRYTHROCYTAIRE DANS LA SÉCURITÉ TRANSFUSIONNELLE CHEZ LES PATIENTS POLYTRANSFUSÉS.pdf",
+              "titre": "H39. L’INTÉRÊT DU PHÉNOTYPAGE ÉRYTHROCYTAIRE DANS LA SÉCURITÉ TRANSFUSIONNELLE CHEZ LES PATIENTS POLYTRANSFUSÉS",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h39. l’interet du phenotypage erythrocytaire dans la securite transfusionnelle chez les patients polytransfuses h39. l’interet du phenotypage erythrocytaire dans la securite transfusionnelle chez les patients polytransfuses.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H40. Intérêt du bilan immuno-hematologique dans le diagnostic biologique de la maladie hémolytique du nouveau-né par incompatibilité ABO  au service d’hémobiologie du  CHU de Tizi Ouzou.pdf",
+              "nom": "H40. Intérêt du bilan immuno-hematologique dans le diagnostic biologique de la maladie hémolytique du nouveau-né par incompatibilité ABO  au service d’hémobiologie du  CHU de Tizi Ouzou.pdf",
+              "titre": "H40. Intérêt du bilan immuno-hematologique dans le diagnostic biologique de la maladie hémolytique du nouveau-né par incompatibilité ABO  au service d’hémobiologie du  CHU de Tizi Ouzou",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h40. interet du bilan immuno-hematologique dans le diagnostic biologique de la maladie hemolytique du nouveau-ne par incompatibilite abo  au service d’hemobiologie du  chu de tizi ouzou h40. interet du bilan immuno-hematologique dans le diagnostic biologique de la maladie hemolytique du nouveau-ne par incompatibilite abo  au service d’hemobiologie du  chu de tizi ouzou.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H41. État des lieux des pratiques transfusionnelles au CHTS Annaba concernant la chaîne de préparation et de qualification des produits sanguins labiles chez le patient polytransfusé opéré.pdf",
+              "nom": "H41. État des lieux des pratiques transfusionnelles au CHTS Annaba concernant la chaîne de préparation et de qualification des produits sanguins labiles chez le patient polytransfusé opéré.pdf",
+              "titre": "H41. État des lieux des pratiques transfusionnelles au CHTS Annaba concernant la chaîne de préparation et de qualification des produits sanguins labiles chez le patient polytransfusé opéré",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h41. etat des lieux des pratiques transfusionnelles au chts annaba concernant la chaine de preparation et de qualification des produits sanguins labiles chez le patient polytransfuse opere h41. etat des lieux des pratiques transfusionnelles au chts annaba concernant la chaine de preparation et de qualification des produits sanguins labiles chez le patient polytransfuse opere.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H42. ALLO-IMMUNISATION FŒTO-MATERNELLE ET TRANSFUSION INTRA-UTERINE.pdf",
+              "nom": "H42. ALLO-IMMUNISATION FŒTO-MATERNELLE ET TRANSFUSION INTRA-UTERINE.pdf",
+              "titre": "H42. ALLO-IMMUNISATION FŒTO-MATERNELLE ET TRANSFUSION INTRA-UTERINE",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h42. allo-immunisation fœto-maternelle et transfusion intra-uterine h42. allo-immunisation fœto-maternelle et transfusion intra-uterine.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H43. HEMOGLOBINURIE PAROXYSTIQUE A FRIGORE MISE EN EVIDENCE D'UNE HEMOLYSINE BIPHASIQUE DE DONATH-LANDSTEINER.pdf",
+              "nom": "H43. HEMOGLOBINURIE PAROXYSTIQUE A FRIGORE MISE EN EVIDENCE D'UNE HEMOLYSINE BIPHASIQUE DE DONATH-LANDSTEINER.pdf",
+              "titre": "H43. HEMOGLOBINURIE PAROXYSTIQUE A FRIGORE MISE EN EVIDENCE D'UNE HEMOLYSINE BIPHASIQUE DE DONATH-LANDSTEINER",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h43. hemoglobinurie paroxystique a frigore mise en evidence d'une hemolysine biphasique de donath-landsteiner h43. hemoglobinurie paroxystique a frigore mise en evidence d'une hemolysine biphasique de donath-landsteiner.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H44. Optimisation de la leucopherese pour la fabrication de cellules CAR T.pdf",
+              "nom": "H44. Optimisation de la leucopherese pour la fabrication de cellules CAR T.pdf",
+              "titre": "H44. Optimisation de la leucopherese pour la fabrication de cellules CAR T",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h44. optimisation de la leucopherese pour la fabrication de cellules car t h44. optimisation de la leucopherese pour la fabrication de cellules car t.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H45. Concentrés de Plaquettes d'Aphérèse (CPA) versus Concentrés de Plaquettes Standards (CPS).pdf",
+              "nom": "H45. Concentrés de Plaquettes d'Aphérèse (CPA) versus Concentrés de Plaquettes Standards (CPS).pdf",
+              "titre": "H45. Concentrés de Plaquettes d'Aphérèse (CPA) versus Concentrés de Plaquettes Standards (CPS)",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h45. concentres de plaquettes d'apherese (cpa) versus concentres de plaquettes standards (cps) h45. concentres de plaquettes d'apherese (cpa) versus concentres de plaquettes standards (cps).pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H46. Don de sang par cytaphérèse et évaluation comparative des performances des séparateurs cellulaires  Fenwal Amicus et Trima Accel Expérience de centre de sang de wilaya CHU Tlemcen.pdf",
+              "nom": "H46. Don de sang par cytaphérèse et évaluation comparative des performances des séparateurs cellulaires  Fenwal Amicus et Trima Accel Expérience de centre de sang de wilaya CHU Tlemcen.pdf",
+              "titre": "H46. Don de sang par cytaphérèse et évaluation comparative des performances des séparateurs cellulaires  Fenwal Amicus et Trima Accel Expérience de centre de sang de wilaya CHU Tlemcen",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h46. don de sang par cytapherese et evaluation comparative des performances des separateurs cellulaires  fenwal amicus et trima accel experience de centre de sang de wilaya chu tlemcen h46. don de sang par cytapherese et evaluation comparative des performances des separateurs cellulaires  fenwal amicus et trima accel experience de centre de sang de wilaya chu tlemcen.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H47. Sécurité transfusionnelle revue des risques et des méthodes de gestion pour une transfusion plus sûre.pdf",
+              "nom": "H47. Sécurité transfusionnelle revue des risques et des méthodes de gestion pour une transfusion plus sûre.pdf",
+              "titre": "H47. Sécurité transfusionnelle revue des risques et des méthodes de gestion pour une transfusion plus sûre",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h47. securite transfusionnelle revue des risques et des methodes de gestion pour une transfusion plus sure h47. securite transfusionnelle revue des risques et des methodes de gestion pour une transfusion plus sure.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H48. SÉCURISATION DU SUPPORT TRANSFUSIONNEL APRES UN CHOC ANAPHYLACTIQUE CHEZ UN PATIENT POLYTRANSFUSÉ A PROPOS D'UN CAS.pdf",
+              "nom": "H48. SÉCURISATION DU SUPPORT TRANSFUSIONNEL APRES UN CHOC ANAPHYLACTIQUE CHEZ UN PATIENT POLYTRANSFUSÉ A PROPOS D'UN CAS.pdf",
+              "titre": "H48. SÉCURISATION DU SUPPORT TRANSFUSIONNEL APRES UN CHOC ANAPHYLACTIQUE CHEZ UN PATIENT POLYTRANSFUSÉ A PROPOS D'UN CAS",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h48. securisation du support transfusionnel apres un choc anaphylactique chez un patient polytransfuse a propos d'un cas h48. securisation du support transfusionnel apres un choc anaphylactique chez un patient polytransfuse a propos d'un cas.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H49. DISCORDANCE DES RESULTATS DU TEST DE COOMBS DIRECT ENTRE LA TECHNIQUE SUR TUBE ET SUR CARTE GEL INTERET ANALYTIQUE ET IMPACT EN IMMUNOHEMATOLOGIE.pdf",
+              "nom": "H49. DISCORDANCE DES RESULTATS DU TEST DE COOMBS DIRECT ENTRE LA TECHNIQUE SUR TUBE ET SUR CARTE GEL INTERET ANALYTIQUE ET IMPACT EN IMMUNOHEMATOLOGIE.pdf",
+              "titre": "H49. DISCORDANCE DES RESULTATS DU TEST DE COOMBS DIRECT ENTRE LA TECHNIQUE SUR TUBE ET SUR CARTE GEL INTERET ANALYTIQUE ET IMPACT EN IMMUNOHEMATOLOGIE",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h49. discordance des resultats du test de coombs direct entre la technique sur tube et sur carte gel interet analytique et impact en immunohematologie h49. discordance des resultats du test de coombs direct entre la technique sur tube et sur carte gel interet analytique et impact en immunohematologie.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H50. Prévalence de l'antigène D faible au CHU Oran, année 2026.pdf",
+              "nom": "H50. Prévalence de l'antigène D faible au CHU Oran, année 2026.pdf",
+              "titre": "H50. Prévalence de l'antigène D faible au CHU Oran, année 2026",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h50. prevalence de l'antigene d faible au chu oran, annee 2026 h50. prevalence de l'antigene d faible au chu oran, annee 2026.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H51. Profil phénotypique Rh (C, c, E, e) des donneurs RhD négatifs  étude descriptive au sein du Centre de Transfusion Sanguine d’Oran.pdf",
+              "nom": "H51. Profil phénotypique Rh (C, c, E, e) des donneurs RhD négatifs  étude descriptive au sein du Centre de Transfusion Sanguine d’Oran.pdf",
+              "titre": "H51. Profil phénotypique Rh (C, c, E, e) des donneurs RhD négatifs  étude descriptive au sein du Centre de Transfusion Sanguine d’Oran",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h51. profil phenotypique rh (c, c, e, e) des donneurs rhd negatifs  etude descriptive au sein du centre de transfusion sanguine d’oran h51. profil phenotypique rh (c, c, e, e) des donneurs rhd negatifs  etude descriptive au sein du centre de transfusion sanguine d’oran.pdf hemobiologie transformation_digitale"
+            },
+            {
+              "fichier": "hemobiologie/themes/transformation_digitale/H52. impact du dépistage de l' anti HBC sur l' exclusion  de don d sang.pdf",
+              "nom": "H52. impact du dépistage de l' anti HBC sur l' exclusion  de don d sang.pdf",
+              "titre": "H52. impact du dépistage de l' anti HBC sur l' exclusion  de don d sang",
+              "specialite": "hemobiologie",
+              "theme": "transformation_digitale",
+              "vignette": null,
+              "recherche": "h52. impact du depistage de l' anti hbc sur l' exclusion  de don d sang h52. impact du depistage de l' anti hbc sur l' exclusion  de don d sang.pdf hemobiologie transformation_digitale"
+            }
+          ]
         },
         {
           "slug": "analyse_hematologique",
