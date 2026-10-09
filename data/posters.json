@@ -9,7 +9,107 @@
         {
           "slug": "biomarqueurs",
           "titre": "Biomarqueurs innovants en biochimie",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B01 Biochemical Characterization of Tetracaine Encapsulation by β-Cyclodextrin Influence of Ionization on Stoichiometry and Binding Affinity.pdf",
+              "nom": "B01 Biochemical Characterization of Tetracaine Encapsulation by β-Cyclodextrin Influence of Ionization on Stoichiometry and Binding Affinity.pdf",
+              "titre": "B01 Biochemical Characterization of Tetracaine Encapsulation by β-Cyclodextrin Influence of Ionization on Stoichiometry and Binding Affinity",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b01 biochemical characterization of tetracaine encapsulation by β-cyclodextrin influence of ionization on stoichiometry and binding affinity b01 biochemical characterization of tetracaine encapsulation by β-cyclodextrin influence of ionization on stoichiometry and binding affinity.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B02 Machine Learning-Assisted FTIR Spectroscopy for Cancer Biomarker Analysis Focus on EGFR, ALK and ROS1.pdf",
+              "nom": "B02 Machine Learning-Assisted FTIR Spectroscopy for Cancer Biomarker Analysis Focus on EGFR, ALK and ROS1.pdf",
+              "titre": "B02 Machine Learning-Assisted FTIR Spectroscopy for Cancer Biomarker Analysis Focus on EGFR, ALK and ROS1",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b02 machine learning-assisted ftir spectroscopy for cancer biomarker analysis focus on egfr, alk and ros1 b02 machine learning-assisted ftir spectroscopy for cancer biomarker analysis focus on egfr, alk and ros1.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B03 Le langage caché de l'électrophorèse  d'une interférence analytique à la suspicion d'amylose à ApoC-II.pdf",
+              "nom": "B03 Le langage caché de l'électrophorèse  d'une interférence analytique à la suspicion d'amylose à ApoC-II.pdf",
+              "titre": "B03 Le langage caché de l'électrophorèse  d'une interférence analytique à la suspicion d'amylose à ApoC-II",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b03 le langage cache de l'electrophorese  d'une interference analytique a la suspicion d'amylose a apoc-ii b03 le langage cache de l'electrophorese  d'une interference analytique a la suspicion d'amylose a apoc-ii.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B04 Methemoglobin as an Emerging Biomarker of Oxidative Damage in Diabetic Erythrocytes.pdf",
+              "nom": "B04 Methemoglobin as an Emerging Biomarker of Oxidative Damage in Diabetic Erythrocytes.pdf",
+              "titre": "B04 Methemoglobin as an Emerging Biomarker of Oxidative Damage in Diabetic Erythrocytes",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b04 methemoglobin as an emerging biomarker of oxidative damage in diabetic erythrocytes b04 methemoglobin as an emerging biomarker of oxidative damage in diabetic erythrocytes.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B05 Intérêt diagnostique et pronostique de la procalcitonine dans le sepsis.pdf",
+              "nom": "B05 Intérêt diagnostique et pronostique de la procalcitonine dans le sepsis.pdf",
+              "titre": "B05 Intérêt diagnostique et pronostique de la procalcitonine dans le sepsis",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b05 interet diagnostique et pronostique de la procalcitonine dans le sepsis b05 interet diagnostique et pronostique de la procalcitonine dans le sepsis.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B06 Vitamine D et médiation inflammatoire du risque CV.pdf",
+              "nom": "B06 Vitamine D et médiation inflammatoire du risque CV.pdf",
+              "titre": "B06 Vitamine D et médiation inflammatoire du risque CV",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b06 vitamine d et mediation inflammatoire du risque cv b06 vitamine d et mediation inflammatoire du risque cv.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B07 Performance comparative longitudinale des indices TYG versus le eGDR.pdf",
+              "nom": "B07 Performance comparative longitudinale des indices TYG versus le eGDR.pdf",
+              "titre": "B07 Performance comparative longitudinale des indices TYG versus le eGDR",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b07 performance comparative longitudinale des indices tyg versus le egdr b07 performance comparative longitudinale des indices tyg versus le egdr.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B09 Beyond drain amylase expanded biological monitoring in the service of diagnosis-Case Report.pdf",
+              "nom": "B09 Beyond drain amylase expanded biological monitoring in the service of diagnosis-Case Report.pdf",
+              "titre": "B09 Beyond drain amylase expanded biological monitoring in the service of diagnosis-Case Report",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b09 beyond drain amylase expanded biological monitoring in the service of diagnosis-case report b09 beyond drain amylase expanded biological monitoring in the service of diagnosis-case report.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B10 Evaluation of Acetylcholinesterase Inhibitory Activity of Novel Coumarin-1,3,4-Thiadiazole Derivatives as Potential Anti-Alzheimer's Agents.pdf",
+              "nom": "B10 Evaluation of Acetylcholinesterase Inhibitory Activity of Novel Coumarin-1,3,4-Thiadiazole Derivatives as Potential Anti-Alzheimer's Agents.pdf",
+              "titre": "B10 Evaluation of Acetylcholinesterase Inhibitory Activity of Novel Coumarin-1,3,4-Thiadiazole Derivatives as Potential Anti-Alzheimer's Agents",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b10 evaluation of acetylcholinesterase inhibitory activity of novel coumarin-1,3,4-thiadiazole derivatives as potential anti-alzheimer's agents b10 evaluation of acetylcholinesterase inhibitory activity of novel coumarin-1,3,4-thiadiazole derivatives as potential anti-alzheimer's agents.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B11 Apport des biomarqueurs biochimiques dans l'individualisation du traitement cardiovasculaire.pdf",
+              "nom": "B11 Apport des biomarqueurs biochimiques dans l'individualisation du traitement cardiovasculaire.pdf",
+              "titre": "B11 Apport des biomarqueurs biochimiques dans l'individualisation du traitement cardiovasculaire",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b11 apport des biomarqueurs biochimiques dans l'individualisation du traitement cardiovasculaire b11 apport des biomarqueurs biochimiques dans l'individualisation du traitement cardiovasculaire.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B12 Acide méthylmalonique ou homocystéine quel marqueur privilégier dans le diagnostic_de_la carence en vitamine B12.pdf",
+              "nom": "B12 Acide méthylmalonique ou homocystéine quel marqueur privilégier dans le diagnostic_de_la carence en vitamine B12.pdf",
+              "titre": "B12 Acide méthylmalonique ou homocystéine quel marqueur privilégier dans le diagnostic de la carence en vitamine B12",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b12 acide methylmalonique ou homocysteine quel marqueur privilegier dans le diagnostic de la carence en vitamine b12 b12 acide methylmalonique ou homocysteine quel marqueur privilegier dans le diagnostic_de_la carence en vitamine b12.pdf biochimie biomarqueurs"
+            }
+          ]
         },
         {
           "slug": "maladies_metaboliques",
