@@ -119,7 +119,107 @@
         {
           "slug": "defis_vie",
           "titre": "Les grands défis biochimiques de la vie : enfance, maternité et vieillesse",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "biochimie/themes/defis_vie/B53 Cas Clinique  Hyperuricémie Sévère au 3ème Trimestre Marqueur de Risque de Pré-éclampsie.pdf",
+              "nom": "B53 Cas Clinique  Hyperuricémie Sévère au 3ème Trimestre Marqueur de Risque de Pré-éclampsie.pdf",
+              "titre": "B53 Cas Clinique  Hyperuricémie Sévère au 3ème Trimestre Marqueur de Risque de Pré-éclampsie",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b53 cas clinique  hyperuricemie severe au 3eme trimestre marqueur de risque de pre-eclampsie b53 cas clinique  hyperuricemie severe au 3eme trimestre marqueur de risque de pre-eclampsie.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B54 Rôle des hormones FSH et LH dans la prédiction des résultats de la récupération spermatique chez les patients atteints d'azoospermie non obstructive.pdf",
+              "nom": "B54 Rôle des hormones FSH et LH dans la prédiction des résultats de la récupération spermatique chez les patients atteints d'azoospermie non obstructive.pdf",
+              "titre": "B54 Rôle des hormones FSH et LH dans la prédiction des résultats de la récupération spermatique chez les patients atteints d'azoospermie non obstructive",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b54 role des hormones fsh et lh dans la prediction des resultats de la recuperation spermatique chez les patients atteints d'azoospermie non obstructive b54 role des hormones fsh et lh dans la prediction des resultats de la recuperation spermatique chez les patients atteints d'azoospermie non obstructive.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B55 Impact du tabac sur les paramètres spermatiques chez les hommes infertiles.pdf",
+              "nom": "B55 Impact du tabac sur les paramètres spermatiques chez les hommes infertiles.pdf",
+              "titre": "B55 Impact du tabac sur les paramètres spermatiques chez les hommes infertiles",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b55 impact du tabac sur les parametres spermatiques chez les hommes infertiles b55 impact du tabac sur les parametres spermatiques chez les hommes infertiles.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B56 Effets des inhibiteurs SGLT2 sur la pression artérielle et les paramètres anthropométriques dans le syndrome métabolique.pdf",
+              "nom": "B56 Effets des inhibiteurs SGLT2 sur la pression artérielle et les paramètres anthropométriques dans le syndrome métabolique.pdf",
+              "titre": "B56 Effets des inhibiteurs SGLT2 sur la pression artérielle et les paramètres anthropométriques dans le syndrome métabolique",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b56 effets des inhibiteurs sglt2 sur la pression arterielle et les parametres anthropometriques dans le syndrome metabolique b56 effets des inhibiteurs sglt2 sur la pression arterielle et les parametres anthropometriques dans le syndrome metabolique.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B57 Place du frottis cervico-vaginal dans le bilan d' infertilité.pdf",
+              "nom": "B57 Place du frottis cervico-vaginal dans le bilan d' infertilité.pdf",
+              "titre": "B57 Place du frottis cervico-vaginal dans le bilan d' infertilité",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b57 place du frottis cervico-vaginal dans le bilan d' infertilite b57 place du frottis cervico-vaginal dans le bilan d' infertilite.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B58 Hormonal biochemistry and cytological changes during women menstrual cycle.pdf",
+              "nom": "B58 Hormonal biochemistry and cytological changes during women menstrual cycle.pdf",
+              "titre": "B58 Hormonal biochemistry and cytological changes during women menstrual cycle",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b58 hormonal biochemistry and cytological changes during women menstrual cycle b58 hormonal biochemistry and cytological changes during women menstrual cycle.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B59 Effect of hormonal changes during menstrual cycle on women mental wellbeing.pdf",
+              "nom": "B59 Effect of hormonal changes during menstrual cycle on women mental wellbeing.pdf",
+              "titre": "B59 Effect of hormonal changes during menstrual cycle on women mental wellbeing",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b59 effect of hormonal changes during menstrual cycle on women mental wellbeing b59 effect of hormonal changes during menstrual cycle on women mental wellbeing.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B61 Biomarqueur clé dans l'infertilité masculine  fragmentation de l'ADN.pdf",
+              "nom": "B61 Biomarqueur clé dans l'infertilité masculine  fragmentation de l'ADN.pdf",
+              "titre": "B61 Biomarqueur clé dans l'infertilité masculine  fragmentation de l'ADN",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b61 biomarqueur cle dans l'infertilite masculine  fragmentation de l'adn b61 biomarqueur cle dans l'infertilite masculine  fragmentation de l'adn.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B63 APPORT DES EXPLORATIONS HORMONALES DANS L’ORIENTATION DU DIAGNOSTIC ETIOLOGIQUE DE LA PUBERTE PRECOCE CHEZ LE GARÇON.pdf",
+              "nom": "B63 APPORT DES EXPLORATIONS HORMONALES DANS L’ORIENTATION DU DIAGNOSTIC ETIOLOGIQUE DE LA PUBERTE PRECOCE CHEZ LE GARÇON.pdf",
+              "titre": "B63 APPORT DES EXPLORATIONS HORMONALES DANS L’ORIENTATION DU DIAGNOSTIC ETIOLOGIQUE DE LA PUBERTE PRECOCE CHEZ LE GARÇON",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b63 apport des explorations hormonales dans l’orientation du diagnostic etiologique de la puberte precoce chez le garcon b63 apport des explorations hormonales dans l’orientation du diagnostic etiologique de la puberte precoce chez le garcon.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B64 Statut en vitamine D et adaptations hormonales au cours de la grossesse  corrélations avec la TSH, la FT4 et la β-hCG.pdf",
+              "nom": "B64 Statut en vitamine D et adaptations hormonales au cours de la grossesse  corrélations avec la TSH, la FT4 et la β-hCG.pdf",
+              "titre": "B64 Statut en vitamine D et adaptations hormonales au cours de la grossesse  corrélations avec la TSH, la FT4 et la β-hCG",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b64 statut en vitamine d et adaptations hormonales au cours de la grossesse  correlations avec la tsh, la ft4 et la β-hcg b64 statut en vitamine d et adaptations hormonales au cours de la grossesse  correlations avec la tsh, la ft4 et la β-hcg.pdf biochimie defis_vie"
+            },
+            {
+              "fichier": "biochimie/themes/defis_vie/B65 Grossesse en milieu professionnel exposé ,approche biochimique de la protection de la maternité au travail.pdf",
+              "nom": "B65 Grossesse en milieu professionnel exposé ,approche biochimique de la protection de la maternité au travail.pdf",
+              "titre": "B65 Grossesse en milieu professionnel exposé ,approche biochimique de la protection de la maternité au travail",
+              "specialite": "biochimie",
+              "theme": "defis_vie",
+              "vignette": null,
+              "recherche": "b65 grossesse en milieu professionnel expose ,approche biochimique de la protection de la maternite au travail b65 grossesse en milieu professionnel expose ,approche biochimique de la protection de la maternite au travail.pdf biochimie defis_vie"
+            }
+          ]
         },
         {
           "slug": "cancer",
