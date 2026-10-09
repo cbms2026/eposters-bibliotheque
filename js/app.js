@@ -37,7 +37,7 @@ document.head.appendChild(
 );
 
 const vue = () => document.getElementById("vue");
-const norm = (s) => (s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+const norm = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
 /* ---------- Chargement (robuste : un fichier manquant ne bloque pas le site) ---------- */
 async function charger() {
@@ -123,7 +123,7 @@ function afficherTheme(slug, slugTheme) {
 
 function cartePoster(p, couleur) {
   const apercu = p.vignette
-    ? `<img class="poster__img" src="${p.vignette}" alt="" loading="lazy"
+    ? `<img class="poster__img" src="assets/${p.vignette}" alt="" loading="lazy"
            onerror="this.outerHTML='<span class=\\'poster__icone\\'>📄</span>'">`
     : `<span class="poster__icone">📄</span>`;
   return `
@@ -138,16 +138,17 @@ function cartePoster(p, couleur) {
 }
 
 function afficherLecteur(chemin) {
+  const url = "assets/" + chemin;
   const nom = decodeURIComponent(chemin.split("/").pop());
   vue().innerHTML = `
     <a class="retour" href="javascript:history.back()">← Retour</a>
     <div class="lecteur__barre">
       <strong>📄 ${nom.replace(/\.pdf$/i, "").replace(/_/g, " ")}</strong>
-      <a class="btn btn--or" href="${chemin}" target="_blank" rel="noopener">↗ Ouvrir</a>
-      <a class="btn btn--gris" href="${chemin}" download>⬇ Télécharger</a>
+      <a class="btn btn--or" href="${url}" target="_blank" rel="noopener">↗ Ouvrir</a>
+      <a class="btn btn--gris" href="${url}" download>⬇ Télécharger</a>
     </div>
     <div class="lecteur__cadre">
-      <embed src="${chemin}" type="application/pdf">
+      <embed src="${url}" type="application/pdf">
     </div>`;
 }
 
@@ -228,4 +229,4 @@ function router() {
 
 window.addEventListener("hashchange", router);
 charger().then(() => { configurerRecherche(); router(); });
-                                                                   
+    
