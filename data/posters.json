@@ -1393,7 +1393,89 @@
         {
           "slug": "maladies_autoimmunes",
           "titre": "Maladies auto-immunes et allergiques",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I10 PRÉSENTATION CLINICO-BIOLOGIQUE SÉVÈRE D'UNE NÉPHROPATHIE À IGA.pdf",
+              "nom": "I10 PRÉSENTATION CLINICO-BIOLOGIQUE SÉVÈRE D'UNE NÉPHROPATHIE À IGA.pdf",
+              "titre": "I10 PRÉSENTATION CLINICO-BIOLOGIQUE SÉVÈRE D'UNE NÉPHROPATHIE À IGA",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i10 presentation clinico-biologique severe d'une nephropathie a iga i10 presentation clinico-biologique severe d'une nephropathie a iga.pdf immunologie maladies_autoimmunes"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I11 Vitiligo pediatrique.pdf",
+              "nom": "I11 Vitiligo pediatrique.pdf",
+              "titre": "I11 Vitiligo pediatrique",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i11 vitiligo pediatrique i11 vitiligo pediatrique.pdf immunologie maladies_autoimmunes"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I12 Manifestations_neuropsychiatriques_et_anticorps_anti-NMDAR.pdf",
+              "nom": "I12 Manifestations_neuropsychiatriques_et_anticorps_anti-NMDAR.pdf",
+              "titre": "I12 Manifestations neuropsychiatriques et anticorps anti-NMDAR",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i12 manifestations neuropsychiatriques et anticorps anti-nmdar i12 manifestations_neuropsychiatriques_et_anticorps_anti-nmdar.pdf immunologie maladies_autoimmunes"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I13 DISSOCIATION FR+  ANTI-CCP− AVEC ANTI-SSARO60 À 400 AUML.pdf",
+              "nom": "I13 DISSOCIATION FR+  ANTI-CCP− AVEC ANTI-SSARO60 À 400 AUML.pdf",
+              "titre": "I13 DISSOCIATION FR+  ANTI-CCP− AVEC ANTI-SSARO60 À 400 AUML",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i13 dissociation fr+  anti-ccp− avec anti-ssaro60 a 400 auml i13 dissociation fr+  anti-ccp− avec anti-ssaro60 a 400 auml.pdf immunologie maladies_autoimmunes"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I14 LE SYNDROME DES ANTI SYNTHÉTASES  CO-POSITIVITÉ ANTI-JO1  ANTI-RO52 Un profil sérologique à valeur pronostique — à propos d'un cas.pdf",
+              "nom": "I14 LE SYNDROME DES ANTI SYNTHÉTASES  CO-POSITIVITÉ ANTI-JO1  ANTI-RO52 Un profil sérologique à valeur pronostique — à propos d'un cas.pdf",
+              "titre": "I14 LE SYNDROME DES ANTI SYNTHÉTASES  CO-POSITIVITÉ ANTI-JO1  ANTI-RO52 Un profil sérologique à valeur pronostique — à propos d'un cas",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i14 le syndrome des anti synthetases  co-positivite anti-jo1  anti-ro52 un profil serologique a valeur pronostique — a propos d'un cas i14 le syndrome des anti synthetases  co-positivite anti-jo1  anti-ro52 un profil serologique a valeur pronostique — a propos d'un cas.pdf immunologie maladies_autoimmunes"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I15 Profil_clinique_serologique_et_histologique_de_la_maladie_coeliaque_chez_ l’adulte.pdf",
+              "nom": "I15 Profil_clinique_serologique_et_histologique_de_la_maladie_coeliaque_chez_ l’adulte.pdf",
+              "titre": "I15 Profil clinique serologique et histologique de la maladie coeliaque chez  l’adulte",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i15 profil clinique serologique et histologique de la maladie coeliaque chez  l’adulte i15 profil_clinique_serologique_et_histologique_de_la_maladie_coeliaque_chez_ l’adulte.pdf immunologie maladies_autoimmunes"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I16 Maladies auto immunes associe à la cholangite biliaire primitive.pdf",
+              "nom": "I16 Maladies auto immunes associe à la cholangite biliaire primitive.pdf",
+              "titre": "I16 Maladies auto immunes associe à la cholangite biliaire primitive",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i16 maladies auto immunes associe a la cholangite biliaire primitive i16 maladies auto immunes associe a la cholangite biliaire primitive.pdf immunologie maladies_autoimmunes"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I17 Etude de SYNDROME DE GOOD PASTURE.pdf",
+              "nom": "I17 Etude de SYNDROME DE GOOD PASTURE.pdf",
+              "titre": "I17 Etude de SYNDROME DE GOOD PASTURE",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i17 etude de syndrome de good pasture i17 etude de syndrome de good pasture.pdf immunologie maladies_autoimmunes"
+            },
+            {
+              "fichier": "immunologie/themes/maladies_autoimmunes/I18 Profil clinicobiologique au cours de la cholangite biliaire primitive dans la région de Constantine.pdf",
+              "nom": "I18 Profil clinicobiologique au cours de la cholangite biliaire primitive dans la région de Constantine.pdf",
+              "titre": "I18 Profil clinicobiologique au cours de la cholangite biliaire primitive dans la région de Constantine",
+              "specialite": "immunologie",
+              "theme": "maladies_autoimmunes",
+              "vignette": null,
+              "recherche": "i18 profil clinicobiologique au cours de la cholangite biliaire primitive dans la region de constantine i18 profil clinicobiologique au cours de la cholangite biliaire primitive dans la region de constantine.pdf immunologie maladies_autoimmunes"
+            }
+          ]
         },
         {
           "slug": "maladies_rares",
