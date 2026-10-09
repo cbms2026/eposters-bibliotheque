@@ -1,0 +1,126 @@
+{
+  "specialites": [
+    {
+      "slug": "biochimie",
+      "titre": "Biochimie",
+      "couleur": "#00796B",
+      "posters_racine": [],
+      "themes": [
+        {
+          "slug": "biomarqueurs",
+          "titre": "Biomarqueurs innovants en biochimie",
+          "posters": []
+        },
+        {
+          "slug": "maladies_metaboliques",
+          "titre": "Biochimie et maladies métaboliques",
+          "posters": []
+        },
+        {
+          "slug": "defis_vie",
+          "titre": "Les grands défis biochimiques de la vie : enfance, maternité et vieillesse",
+          "posters": []
+        },
+        {
+          "slug": "cancer",
+          "titre": "Approches biochimiques du cancer : du diagnostic au suivi thérapeutique",
+          "posters": []
+        },
+        {
+          "slug": "qualite_labo",
+          "titre": "Qualité et performance en laboratoire : défis et perspectives",
+          "posters": []
+        }
+      ],
+      "themes_autres": []
+    },
+    {
+      "slug": "microbiologie",
+      "titre": "Microbiologie",
+      "couleur": "#5E35B1",
+      "posters_racine": [],
+      "themes": [
+        {
+          "slug": "antimicrobiens_resistance",
+          "titre": "Antimicrobiens et résistance",
+          "posters": []
+        },
+        {
+          "slug": "hygiene_hospitaliere",
+          "titre": "Hygiène hospitalière",
+          "posters": []
+        },
+        {
+          "slug": "maladies_emergentes",
+          "titre": "Maladies émergentes et ré-émergentes",
+          "posters": []
+        },
+        {
+          "slug": "divers",
+          "titre": "Divers",
+          "posters": []
+        }
+      ],
+      "themes_autres": []
+    },
+    {
+      "slug": "hemobiologie",
+      "titre": "Hémobiologie",
+      "couleur": "#B71C1C",
+      "posters_racine": [],
+      "themes": [
+        {
+          "slug": "hemorragiques_thrombotiques",
+          "titre": "Maladies hémorragiques et thrombotiques : approches intégrées",
+          "posters": []
+        },
+        {
+          "slug": "transformation_digitale",
+          "titre": "Transformation digitale en hémobiologie : sécurité transfusionnelle et innovation en cytaphérèse",
+          "posters": []
+        },
+        {
+          "slug": "analyse_hematologique",
+          "titre": "Analyse hématologique et technologies de pointe pour l'étude cellulaire",
+          "posters": []
+        },
+        {
+          "slug": "globules_rouges",
+          "titre": "Globules rouges : caractérisation et innovations moléculaires",
+          "posters": []
+        }
+      ],
+      "themes_autres": []
+    },
+    {
+      "slug": "immunologie",
+      "titre": "Immunologie",
+      "couleur": "#1565C0",
+      "posters_racine": [],
+      "themes": [
+        {
+          "slug": "immunodiagnostic",
+          "titre": "Nouveautés en immunodiagnostic",
+          "posters": []
+        },
+        {
+          "slug": "maladies_autoimmunes",
+          "titre": "Maladies auto-immunes et allergiques",
+          "posters": []
+        },
+        {
+          "slug": "maladies_rares",
+          "titre": "Maladies immunologiques rares",
+          "posters": []
+        },
+        {
+          "slug": "biotherapies",
+          "titre": "Biothérapies et thérapies ciblées",
+          "posters": []
+        }
+      ],
+      "themes_autres": []
+    }
+  ],
+  "programme": []
+}
