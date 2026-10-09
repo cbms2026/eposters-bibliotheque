@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bibliothèque des e-posters — Congrès de Biologie Médicale</title>
+  <meta name="description" content="Bibliothèque en ligne des e-posters du congrès de biologie médicale : biochimie, microbiologie, hémobiologie, immunologie.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>">
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero__badge">Congrès de Biologie Médicale · Sétif</div>
+    <h1 class="hero__titre">Bibliothèque des <span>e-posters</span></h1>
+    <p class="hero__slogan">La biologie médicale au cœur de l'interdisciplinarité</p>
+    <div class="hero__badges">
+      <span class="badge">📅 24 &amp; 25 octobre 2026</span>
+      <span class="badge">📍 Hôtel RÉNÉA, Sétif</span>
+    </div>
+    <div class="hero__actions" id="heroActions"></div>
+  </header>
+
+  <main class="conteneur">
+    <!-- Recherche globale -->
+    <section class="carte recherche">
+      <input id="champRecherche" type="search"
+             placeholder="🔍  Rechercher un e-poster, un auteur, un thème…"
+             autocomplete="off">
+      <div id="resultatsRecherche" class="resultats"></div>
+    </section>
+
+    <!-- Vue dynamique (accueil / spécialité / thème / lecteur) -->
+    <section id="vue"></section>
+  </main>
+
+  <footer class="pied">
+    <p>Bibliothèque d'e-posters — hébergée sur GitHub Pages.</p>
+    <p class="pied__discret">Déposez vos PDF dans <code>assets/&lt;spécialité&gt;/themes/&lt;thème&gt;/</code>,
+    poussez, et ils apparaissent automatiquement ici.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
