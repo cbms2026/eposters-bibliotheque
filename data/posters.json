@@ -1586,7 +1586,62 @@
         {
           "slug": "biotherapies",
           "titre": "Biothérapies et thérapies ciblées",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "immunologie/themes/biotherapies/I21 Computational investigation of an α-hydroxyphosphonate derivative (DH4MPMP) for Anti-inflammatory and Autoimmune disease therapy.pdf",
+              "nom": "I21 Computational investigation of an α-hydroxyphosphonate derivative (DH4MPMP) for Anti-inflammatory and Autoimmune disease therapy.pdf",
+              "titre": "I21 Computational investigation of an α-hydroxyphosphonate derivative (DH4MPMP) for Anti-inflammatory and Autoimmune disease therapy",
+              "specialite": "immunologie",
+              "theme": "biotherapies",
+              "vignette": null,
+              "recherche": "i21 computational investigation of an α-hydroxyphosphonate derivative (dh4mpmp) for anti-inflammatory and autoimmune disease therapy i21 computational investigation of an α-hydroxyphosphonate derivative (dh4mpmp) for anti-inflammatory and autoimmune disease therapy.pdf immunologie biotherapies"
+            },
+            {
+              "fichier": "immunologie/themes/biotherapies/I22  Suivi thérapeutique des immunosuppresseurs de l'individualisation du traitement à la prévention du rejet(Dr RADJAI C).pdf",
+              "nom": "I22  Suivi thérapeutique des immunosuppresseurs de l'individualisation du traitement à la prévention du rejet(Dr RADJAI C).pdf",
+              "titre": "I22  Suivi thérapeutique des immunosuppresseurs de l'individualisation du traitement à la prévention du rejet(Dr RADJAI C)",
+              "specialite": "immunologie",
+              "theme": "biotherapies",
+              "vignette": null,
+              "recherche": "i22  suivi therapeutique des immunosuppresseurs de l'individualisation du traitement a la prevention du rejet(dr radjai c) i22  suivi therapeutique des immunosuppresseurs de l'individualisation du traitement a la prevention du rejet(dr radjai c).pdf immunologie biotherapies"
+            },
+            {
+              "fichier": "immunologie/themes/biotherapies/I23 Evaluation_de_la_reponse_pathologique_apres_chimiotherapie_neoadjuvantee_associee_a_une_therapie_ciblee_dans_le_cancer_du_sein_precoce_HER2_positif.pdf",
+              "nom": "I23 Evaluation_de_la_reponse_pathologique_apres_chimiotherapie_neoadjuvantee_associee_a_une_therapie_ciblee_dans_le_cancer_du_sein_precoce_HER2_positif.pdf",
+              "titre": "I23 Evaluation de la reponse pathologique apres chimiotherapie neoadjuvantee associee a une therapie ciblee dans le cancer du sein precoce HER2 positif",
+              "specialite": "immunologie",
+              "theme": "biotherapies",
+              "vignette": null,
+              "recherche": "i23 evaluation de la reponse pathologique apres chimiotherapie neoadjuvantee associee a une therapie ciblee dans le cancer du sein precoce her2 positif i23 evaluation_de_la_reponse_pathologique_apres_chimiotherapie_neoadjuvantee_associee_a_une_therapie_ciblee_dans_le_cancer_du_sein_precoce_her2_positif.pdf immunologie biotherapies"
+            },
+            {
+              "fichier": "immunologie/themes/biotherapies/I24 Toxidermies sévères induites par biothérapies.pdf",
+              "nom": "I24 Toxidermies sévères induites par biothérapies.pdf",
+              "titre": "I24 Toxidermies sévères induites par biothérapies",
+              "specialite": "immunologie",
+              "theme": "biotherapies",
+              "vignette": null,
+              "recherche": "i24 toxidermies severes induites par biotherapies i24 toxidermies severes induites par biotherapies.pdf immunologie biotherapies"
+            },
+            {
+              "fichier": "immunologie/themes/biotherapies/I25 Thérapie ciblée anti-CD30 dans le lymphome hodgkinien réfractaire ou en rechute.pdf",
+              "nom": "I25 Thérapie ciblée anti-CD30 dans le lymphome hodgkinien réfractaire ou en rechute.pdf",
+              "titre": "I25 Thérapie ciblée anti-CD30 dans le lymphome hodgkinien réfractaire ou en rechute",
+              "specialite": "immunologie",
+              "theme": "biotherapies",
+              "vignette": null,
+              "recherche": "i25 therapie ciblee anti-cd30 dans le lymphome hodgkinien refractaire ou en rechute i25 therapie ciblee anti-cd30 dans le lymphome hodgkinien refractaire ou en rechute.pdf immunologie biotherapies"
+            },
+            {
+              "fichier": "immunologie/themes/biotherapies/I26 Asciminib  Nouvelle thérapie ciblée dans la leucémie myéloïde chronique.pdf",
+              "nom": "I26 Asciminib  Nouvelle thérapie ciblée dans la leucémie myéloïde chronique.pdf",
+              "titre": "I26 Asciminib  Nouvelle thérapie ciblée dans la leucémie myéloïde chronique",
+              "specialite": "immunologie",
+              "theme": "biotherapies",
+              "vignette": null,
+              "recherche": "i26 asciminib  nouvelle therapie ciblee dans la leucemie myeloide chronique i26 asciminib  nouvelle therapie ciblee dans la leucemie myeloide chronique.pdf immunologie biotherapies"
+            }
+          ]
         }
       ],
       "themes_autres": []
