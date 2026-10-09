@@ -1,0 +1,227 @@
+:root {
+  --bleu-congres: #1B2A6B;
+  --bleu-fonce: #101C4E;
+  --vert-congres: #0E8A72;
+  --jaune-congres: #F2B705;
+  --jaune-fonce: #C99403;
+  --gris-clair: #F2F4F8;
+  --gris-texte: #40505F;
+  --blanc: #FFFFFF;
+  --ombre: 0 2px 10px rgba(16, 28, 78, .12);
+  --rayon: 16px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
+  background: var(--gris-clair);
+  color: var(--bleu-fonce);
+  line-height: 1.5;
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  background: linear-gradient(135deg, var(--bleu-fonce) 0%, var(--bleu-congres) 55%, var(--vert-congres) 100%);
+  color: var(--blanc);
+  padding: 2.5rem 1.25rem 3rem;
+  text-align: center;
+  border-radius: 0 0 2rem 2rem;
+}
+.hero__badge {
+  display: inline-block;
+  background: rgba(255,255,255,.16);
+  border: 1px solid rgba(255,255,255,.35);
+  padding: .3rem .9rem;
+  border-radius: 999px;
+  font-size: .8rem;
+  letter-spacing: .04em;
+  margin-bottom: 1rem;
+}
+.hero__titre { font-size: clamp(1.6rem, 5vw, 2.6rem); font-weight: 800; }
+.hero__titre span { color: var(--jaune-congres); }
+.hero__slogan { opacity: .92; margin-top: .35rem; font-style: italic; }
+.hero__badges { margin-top: 1rem; display: flex; gap: .6rem; justify-content: center; flex-wrap: wrap; }
+.hero .badge {
+  background: rgba(255,255,255,.14);
+  border: 1px solid rgba(255,255,255,.3);
+  padding: .35rem .9rem; border-radius: 999px; font-size: .85rem;
+}
+.hero__actions { margin-top: 1.4rem; display: flex; gap: .8rem; justify-content: center; flex-wrap: wrap; }
+
+.bouton-programme {
+  background: linear-gradient(135deg, var(--jaune-congres), var(--jaune-fonce));
+  color: var(--bleu-fonce);
+  font-weight: 700;
+  border: none; border-radius: 999px;
+  padding: .7rem 1.5rem; font-size: .95rem;
+  cursor: pointer;
+  box-shadow: var(--ombre);
+  transition: transform .15s ease;
+  text-decoration: none;
+  display: inline-flex; align-items: center; gap: .4rem;
+}
+.bouton-programme:hover { transform: translateY(-2px); }
+
+/* ---------- Conteneur / cartes ---------- */
+.conteneur { max-width: 900px; margin: -1.6rem auto 0; padding: 0 1rem 2.5rem; }
+
+.carte {
+  background: var(--blanc);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+  padding: 1.1rem 1.2rem;
+  margin-bottom: 1.1rem;
+}
+
+.carte-recherche, .recherche { padding: .8rem 1rem; }
+#champRecherche {
+  width: 100%;
+  border: 2px solid #E3E8F2;
+  border-radius: 12px;
+  padding: .75rem 1rem;
+  font-size: 1rem;
+  outline: none;
+  background: var(--gris-clair);
+}
+#champRecherche:focus { border-color: var(--vert-congres); background: var(--blanc); }
+.resultats { margin-top: .6rem; }
+.resultat {
+  display: flex; align-items: center; gap: .7rem;
+  padding: .6rem .4rem;
+  border-top: 1px solid #EEF1F7;
+  text-decoration: none; color: inherit;
+}
+.resultat:hover { background: var(--gris-clair); border-radius: 8px; }
+.resultat__puce { font-size: 1.3rem; }
+.resultat__titre { font-weight: 600; }
+.resultat__meta { font-size: .8rem; color: var(--gris-texte); }
+.resultat__code {
+  margin-left: auto;
+  font-size: .75rem; font-weight: 700;
+  padding: .15rem .55rem; border-radius: 999px;
+  background: var(--gris-clair); color: var(--gris-texte);
+  white-space: nowrap;
+}
+.pastille {
+  display: inline-block; width: .7rem; height: .7rem;
+  border-radius: 50%; margin-right: .35rem;
+}
+
+/* ---------- Titres de section ---------- */
+.titre-section {
+  font-size: 1.25rem; margin: 1.4rem 0 .8rem;
+  display: flex; align-items: center; gap: .5rem;
+}
+.fil-ariane {
+  display: flex; gap: .45rem; align-items: center;
+  font-size: .85rem; color: var(--gris-texte);
+  margin: .8rem 0;
+  flex-wrap: wrap;
+}
+.fil-ariane a { color: var(--vert-congres); text-decoration: none; font-weight: 600; }
+.fil-ariane a:hover { text-decoration: underline; }
+
+/* ---------- Grille spécialités / thèmes ---------- */
+.grille {
+  display: grid;
+  gap: .9rem;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
+.grille--themes { grid-template-columns: 1fr; }
+
+.carte-lien {
+  display: flex; align-items: center; gap: .9rem;
+  background: var(--blanc);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+  padding: 1rem 1.2rem;
+  text-decoration: none; color: inherit;
+  border-left: 6px solid var(--couleur, var(--vert-congres));
+  transition: transform .15s ease;
+}
+.carte-lien:hover { transform: translateY(-3px); }
+.carte-lien__icone {
+  width: 46px; height: 46px; flex: 0 0 46px;
+  border-radius: 12px;
+  display: grid; place-items: center;
+  font-size: 1.5rem;
+  background: color-mix(in srgb, var(--couleur, #0E8A72) 14%, white);
+}
+.carte-lien__titre { font-weight: 700; }
+.carte-lien__sous-titre { font-size: .82rem; color: var(--gris-texte); }
+.carte-lien__fleche { margin-left: auto; color: #B8C0D4; font-size: 1.2rem; }
+
+/* ---------- Liste d'e-posters ---------- */
+.poster {
+  display: flex; align-items: center; gap: .8rem;
+  background: var(--blanc);
+  border-radius: 14px;
+  box-shadow: var(--ombre);
+  padding: .85rem 1.1rem;
+  margin-bottom: .7rem;
+  text-decoration: none; color: inherit;
+  border-left: 5px solid var(--couleur, var(--vert-congres));
+  transition: transform .15s ease;
+}
+.poster:hover { transform: translateX(4px); }
+.poster__icone { font-size: 1.5rem; }
+.poster__img {
+  width: 72px; height: 50px; flex: 0 0 72px;
+  object-fit: cover; object-position: top;
+  border-radius: 8px;
+  border: 1px solid #E3E8F2;
+  background: var(--blanc);
+}
+.poster__titre { font-weight: 600; word-break: break-word; }
+.poster__meta { font-size: .78rem; color: var(--gris-texte); }
+.poster__fleche { margin-left: auto; color: #B8C0D4; }
+
+/* ---------- Lecteur PDF ---------- */
+.lecteur__barre {
+  display: flex; gap: .6rem; align-items: center;
+  margin-bottom: .8rem; flex-wrap: wrap;
+}
+.btn {
+  border: none; border-radius: 10px;
+  padding: .55rem 1rem; font-size: .9rem; font-weight: 600;
+  cursor: pointer; text-decoration: none;
+  display: inline-flex; align-items: center; gap: .35rem;
+  background: var(--bleu-congres); color: var(--blanc);
+}
+.btn--or { background: linear-gradient(135deg, var(--jaune-congres), var(--jaune-fonce)); color: var(--bleu-fonce); }
+.btn--gris { background: #E8ECF5; color: var(--bleu-fonce); }
+.lecteur__cadre {
+  background: #4A5568;
+  border-radius: var(--rayon);
+  overflow: hidden;
+  box-shadow: var(--ombre);
+}
+.lecteur__cadre embed, .lecteur__cadre iframe {
+  display: block; width: 100%; height: min(78vh, 900px); border: 0;
+}
+
+/* ---------- Divers ---------- */
+.vide {
+  text-align: center; color: var(--gris-texte);
+  padding: 1.6rem 1rem; font-style: italic;
+}
+.pied {
+  text-align: center; color: var(--gris-texte);
+  font-size: .85rem; padding: 1.5rem 1rem 2.5rem;
+}
+.pied__discret { opacity: .7; margin-top: .3rem; }
+.pied code {
+  background: #E8ECF5; border-radius: 6px; padding: .1rem .4rem;
+}
+.retour {
+  display: inline-flex; align-items: center; gap: .3rem;
+  color: var(--vert-congres); text-decoration: none; font-weight: 600;
+  margin: .8rem 0;
+}
+.retour:hover { text-decoration: underline; }
+
+@media (max-width: 520px) {
+  .hero { padding: 2rem 1rem 2.6rem; }
+  .poster__fleche { display: none; }
+}
