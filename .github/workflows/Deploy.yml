@@ -32,7 +32,7 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add data/posters.json
             git commit -m "Mise à jour automatique de l'index des e-posters [skip ci]"
-            git push
+            git push origin HEAD:main
           fi
 
   # 2) Génère les vignettes d'aperçu des PDF
@@ -50,12 +50,12 @@ jobs:
         run: python3 scripts/generer_vignettes.py
       - name: Commit des vignettes (si nouvelles)
         run: |
-          if ! git diff --quiet || [ -n "$(git status --porcelain)" ]; then
+          if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/**/_vignettes/
+            git add assets/
             git commit -m "Vignettes d'aperçu des e-posters [skip ci]" || true
-            git push || true
+            git push origin HEAD:main || true
           fi
 
   # 3) Publie le site statique sur GitHub Pages
