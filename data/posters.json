@@ -43,7 +43,170 @@
         {
           "slug": "antimicrobiens_resistance",
           "titre": "Antimicrobiens et résistance",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M2 Antibacterial activity and chemical composition of Pistacia lentiscus essential oil.pdf",
+              "nom": "M2 Antibacterial activity and chemical composition of Pistacia lentiscus essential oil.pdf",
+              "titre": "M2 Antibacterial activity and chemical composition of Pistacia lentiscus essential oil",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m2 antibacterial activity and chemical composition of pistacia lentiscus essential oil m2 antibacterial activity and chemical composition of pistacia lentiscus essential oil.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M3 Antibacterial Activity of Algerian Lichens A Promising Source of Novel Antimicrobial Agents against Antibiotic Resistance.pdf",
+              "nom": "M3 Antibacterial Activity of Algerian Lichens A Promising Source of Novel Antimicrobial Agents against Antibiotic Resistance.pdf",
+              "titre": "M3 Antibacterial Activity of Algerian Lichens A Promising Source of Novel Antimicrobial Agents against Antibiotic Resistance",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m3 antibacterial activity of algerian lichens a promising source of novel antimicrobial agents against antibiotic resistance m3 antibacterial activity of algerian lichens a promising source of novel antimicrobial agents against antibiotic resistance.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M4 Prevalence of ESBL and Carbapenemase-Producing Gram-Negative Bacteria Isolated from.pdf",
+              "nom": "M4 Prevalence of ESBL and Carbapenemase-Producing Gram-Negative Bacteria Isolated from.pdf",
+              "titre": "M4 Prevalence of ESBL and Carbapenemase-Producing Gram-Negative Bacteria Isolated from",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m4 prevalence of esbl and carbapenemase-producing gram-negative bacteria isolated from m4 prevalence of esbl and carbapenemase-producing gram-negative bacteria isolated from.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M5 Antibiotic Resistance Profiles and the Pathogenicity of Medical Devices-Associated Bacterial Strains.pdf",
+              "nom": "M5 Antibiotic Resistance Profiles and the Pathogenicity of Medical Devices-Associated Bacterial Strains.pdf",
+              "titre": "M5 Antibiotic Resistance Profiles and the Pathogenicity of Medical Devices-Associated Bacterial Strains",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m5 antibiotic resistance profiles and the pathogenicity of medical devices-associated bacterial strains m5 antibiotic resistance profiles and the pathogenicity of medical devices-associated bacterial strains.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M8_Le_transfert_horizontal_de_genes_medie_par_les_bacteriophages_remodele_le_genome_accessoire_d_un_isolat_clinique_multiresistant_d_Escherichia_coli_ST354.pdf",
+              "nom": "M8_Le_transfert_horizontal_de_genes_medie_par_les_bacteriophages_remodele_le_genome_accessoire_d_un_isolat_clinique_multiresistant_d_Escherichia_coli_ST354.pdf",
+              "titre": "M8 Le transfert horizontal de genes medie par les bacteriophages remodele le genome accessoire d un isolat clinique multiresistant d Escherichia coli ST354",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m8 le transfert horizontal de genes medie par les bacteriophages remodele le genome accessoire d un isolat clinique multiresistant d escherichia coli st354 m8_le_transfert_horizontal_de_genes_medie_par_les_bacteriophages_remodele_le_genome_accessoire_d_un_isolat_clinique_multiresistant_d_escherichia_coli_st354.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M9 Biofilm formation and virulence genes in Medical Devices-associated Bacterial Strains.pdf",
+              "nom": "M9 Biofilm formation and virulence genes in Medical Devices-associated Bacterial Strains.pdf",
+              "titre": "M9 Biofilm formation and virulence genes in Medical Devices-associated Bacterial Strains",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m9 biofilm formation and virulence genes in medical devices-associated bacterial strains m9 biofilm formation and virulence genes in medical devices-associated bacterial strains.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M14 Determination of the Frequency of β-Lactamase Genes (blaTEM, blaSHV, blaCTX-M IV), Phylogenetic Groups and Virulence Profile among Uropathogenic Escherichia coli Isolated from Algerian Patients.pdf",
+              "nom": "M14 Determination of the Frequency of β-Lactamase Genes (blaTEM, blaSHV, blaCTX-M IV), Phylogenetic Groups and Virulence Profile among Uropathogenic Escherichia coli Isolated from Algerian Patients.pdf",
+              "titre": "M14 Determination of the Frequency of β-Lactamase Genes (blaTEM, blaSHV, blaCTX-M IV), Phylogenetic Groups and Virulence Profile among Uropathogenic Escherichia coli Isolated from Algerian Patients",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m14 determination of the frequency of β-lactamase genes (blatem, blashv, blactx-m iv), phylogenetic groups and virulence profile among uropathogenic escherichia coli isolated from algerian patients m14 determination of the frequency of β-lactamase genes (blatem, blashv, blactx-m iv), phylogenetic groups and virulence profile among uropathogenic escherichia coli isolated from algerian patients.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M15 Enhancement of the Antibacterial Activity of Bee Pollen Ethanolic Extract.pdf",
+              "nom": "M15 Enhancement of the Antibacterial Activity of Bee Pollen Ethanolic Extract.pdf",
+              "titre": "M15 Enhancement of the Antibacterial Activity of Bee Pollen Ethanolic Extract",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m15 enhancement of the antibacterial activity of bee pollen ethanolic extract m15 enhancement of the antibacterial activity of bee pollen ethanolic extract.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M19 Etude comparative du portage de bacteries multiresistante (BMR) chez les eleveurs et leur animaux.pdf",
+              "nom": "M19 Etude comparative du portage de bacteries multiresistante (BMR) chez les eleveurs et leur animaux.pdf",
+              "titre": "M19 Etude comparative du portage de bacteries multiresistante (BMR) chez les eleveurs et leur animaux",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m19 etude comparative du portage de bacteries multiresistante (bmr) chez les eleveurs et leur animaux m19 etude comparative du portage de bacteries multiresistante (bmr) chez les eleveurs et leur animaux.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M24 Suivi thérapeutique pharmacologique de la vancomycine dans l'endocardite infectieuse  contribution à l'optimisation de l'antibiothérapie et à la lutte contre l'antibiorésistance.pdf",
+              "nom": "M24 Suivi thérapeutique pharmacologique de la vancomycine dans l'endocardite infectieuse  contribution à l'optimisation de l'antibiothérapie et à la lutte contre l'antibiorésistance.pdf",
+              "titre": "M24 Suivi thérapeutique pharmacologique de la vancomycine dans l'endocardite infectieuse  contribution à l'optimisation de l'antibiothérapie et à la lutte contre l'antibiorésistance",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m24 suivi therapeutique pharmacologique de la vancomycine dans l'endocardite infectieuse  contribution a l'optimisation de l'antibiotherapie et a la lutte contre l'antibioresistance m24 suivi therapeutique pharmacologique de la vancomycine dans l'endocardite infectieuse  contribution a l'optimisation de l'antibiotherapie et a la lutte contre l'antibioresistance.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M40 Profl bactériologique des infections du pied diabétique et étude de la sensibilité aux antibiotiques des bactéries isolées.pdf",
+              "nom": "M40 Profl bactériologique des infections du pied diabétique et étude de la sensibilité aux antibiotiques des bactéries isolées.pdf",
+              "titre": "M40 Profl bactériologique des infections du pied diabétique et étude de la sensibilité aux antibiotiques des bactéries isolées",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m40 profl bacteriologique des infections du pied diabetique et etude de la sensibilite aux antibiotiques des bacteries isolees m40 profl bacteriologique des infections du pied diabetique et etude de la sensibilite aux antibiotiques des bacteries isolees.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M41 Profil bactériologique des pleurésies purulentes au CHU d'Annaba entre 2015 et 2025 Dr OTMANE Adnene.pdf",
+              "nom": "M41 Profil bactériologique des pleurésies purulentes au CHU d'Annaba entre 2015 et 2025 Dr OTMANE Adnene.pdf",
+              "titre": "M41 Profil bactériologique des pleurésies purulentes au CHU d'Annaba entre 2015 et 2025 Dr OTMANE Adnene",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m41 profil bacteriologique des pleuresies purulentes au chu d'annaba entre 2015 et 2025 dr otmane adnene m41 profil bacteriologique des pleuresies purulentes au chu d'annaba entre 2015 et 2025 dr otmane adnene.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M46 Résistance de Staphylococcus aureus aux antibiotiques au CHU d'Annaba (Algérie) bilan 2019-2025.pdf",
+              "nom": "M46 Résistance de Staphylococcus aureus aux antibiotiques au CHU d'Annaba (Algérie) bilan 2019-2025.pdf",
+              "titre": "M46 Résistance de Staphylococcus aureus aux antibiotiques au CHU d'Annaba (Algérie) bilan 2019-2025",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m46 resistance de staphylococcus aureus aux antibiotiques au chu d'annaba (algerie) bilan 2019-2025 m46 resistance de staphylococcus aureus aux antibiotiques au chu d'annaba (algerie) bilan 2019-2025.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M50 Sweet Cherry Rutin- and Horse Chestnut B-escin-Functionalized Gold and Silver Nanoparticles for Broad-Spectrum Inhibition of SARS-CoV-2.pdf",
+              "nom": "M50 Sweet Cherry Rutin- and Horse Chestnut B-escin-Functionalized Gold and Silver Nanoparticles for Broad-Spectrum Inhibition of SARS-CoV-2.pdf",
+              "titre": "M50 Sweet Cherry Rutin- and Horse Chestnut B-escin-Functionalized Gold and Silver Nanoparticles for Broad-Spectrum Inhibition of SARS-CoV-2",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m50 sweet cherry rutin- and horse chestnut b-escin-functionalized gold and silver nanoparticles for broad-spectrum inhibition of sars-cov-2 m50 sweet cherry rutin- and horse chestnut b-escin-functionalized gold and silver nanoparticles for broad-spectrum inhibition of sars-cov-2.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M51 Profil bactériologique et épidémiologique des suppurations cutanées à Staphylococcus aureus.pdf",
+              "nom": "M51 Profil bactériologique et épidémiologique des suppurations cutanées à Staphylococcus aureus.pdf",
+              "titre": "M51 Profil bactériologique et épidémiologique des suppurations cutanées à Staphylococcus aureus",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m51 profil bacteriologique et epidemiologique des suppurations cutanees a staphylococcus aureus m51 profil bacteriologique et epidemiologique des suppurations cutanees a staphylococcus aureus.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M65 Profil bactériologique des bactériémies dans le service de réanimation des brûlés au CHU de Constantine.pdf",
+              "nom": "M65 Profil bactériologique des bactériémies dans le service de réanimation des brûlés au CHU de Constantine.pdf",
+              "titre": "M65 Profil bactériologique des bactériémies dans le service de réanimation des brûlés au CHU de Constantine",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m65 profil bacteriologique des bacteriemies dans le service de reanimation des brules au chu de constantine m65 profil bacteriologique des bacteriemies dans le service de reanimation des brules au chu de constantine.pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M66 Profil bactériologique des Enterobacter spp. au CHU de Constantine (2023 – 2025).pdf",
+              "nom": "M66 Profil bactériologique des Enterobacter spp. au CHU de Constantine (2023 – 2025).pdf",
+              "titre": "M66 Profil bactériologique des Enterobacter spp. au CHU de Constantine (2023 – 2025)",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m66 profil bacteriologique des enterobacter spp. au chu de constantine (2023 – 2025) m66 profil bacteriologique des enterobacter spp. au chu de constantine (2023 – 2025).pdf microbiologie antimicrobiens_resistance"
+            },
+            {
+              "fichier": "microbiologie/themes/antimicrobiens_resistance/M67 Klebsiella pneumonaie hautement resistante.pdf",
+              "nom": "M67 Klebsiella pneumonaie hautement resistante.pdf",
+              "titre": "M67 Klebsiella pneumonaie hautement resistante",
+              "specialite": "microbiologie",
+              "theme": "antimicrobiens_resistance",
+              "vignette": null,
+              "recherche": "m67 klebsiella pneumonaie hautement resistante m67 klebsiella pneumonaie hautement resistante.pdf microbiologie antimicrobiens_resistance"
+            }
+          ]
         },
         {
           "slug": "hygiene_hospitaliere",
@@ -55,7 +218,7 @@
               "titre": "M20 Évaluation du portage bactérien manuel chez le personnel soignant en milieu hospitalier",
               "specialite": "microbiologie",
               "theme": "hygiene_hospitaliere",
-              "vignette": null,
+              "vignette": "microbiologie/themes/hygiene_hospitaliere/_vignettes/M20 Évaluation du portage bactérien manuel chez le personnel soignant en milieu hospitalier.png",
               "recherche": "m20 evaluation du portage bacterien manuel chez le personnel soignant en milieu hospitalier m20 evaluation du portage bacterien manuel chez le personnel soignant en milieu hospitalier.pdf microbiologie hygiene_hospitaliere"
             },
             {
@@ -64,7 +227,7 @@
               "titre": "M22 Hygiène hospitalière et gestion des déchets médicaux  État des lieux et perspectives de durabilité au CHU Ibn Badis (Constantine, Algérie)",
               "specialite": "microbiologie",
               "theme": "hygiene_hospitaliere",
-              "vignette": null,
+              "vignette": "microbiologie/themes/hygiene_hospitaliere/_vignettes/M22 Hygiène hospitalière et gestion des déchets médicaux  État des lieux et perspectives de durabilité au CHU Ibn Badis (Constantine, Algérie).png",
               "recherche": "m22 hygiene hospitaliere et gestion des dechets medicaux  etat des lieux et perspectives de durabilite au chu ibn badis (constantine, algerie) m22 hygiene hospitaliere et gestion des dechets medicaux  etat des lieux et perspectives de durabilite au chu ibn badis (constantine, algerie).pdf microbiologie hygiene_hospitaliere"
             },
             {
@@ -73,7 +236,7 @@
               "titre": "M39 Prévention des infections associées aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030",
               "specialite": "microbiologie",
               "theme": "hygiene_hospitaliere",
-              "vignette": null,
+              "vignette": "microbiologie/themes/hygiene_hospitaliere/_vignettes/M39 Prévention des infections associées aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030.png",
               "recherche": "m39 prevention des infections associees aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030 m39 prevention des infections associees aux soins analyse des indicateurs mondiaux de l'oms et apport des technologies innovantes pour l'atteinte des objectifs de 2030.pdf microbiologie hygiene_hospitaliere"
             },
             {
@@ -82,7 +245,7 @@
               "titre": "M42 Un germe inhabituel incriminé aux   infections liées aux cathéters tunnélisés d’hémodialyse",
               "specialite": "microbiologie",
               "theme": "hygiene_hospitaliere",
-              "vignette": null,
+              "vignette": "microbiologie/themes/hygiene_hospitaliere/_vignettes/M42 Un germe inhabituel incriminé aux   infections liées aux cathéters tunnélisés d’hémodialyse .png",
               "recherche": "m42 un germe inhabituel incrimine aux   infections liees aux catheters tunnelises d’hemodialyse m42 un germe inhabituel incrimine aux   infections liees aux catheters tunnelises d’hemodialyse .pdf microbiologie hygiene_hospitaliere"
             },
             {
@@ -91,7 +254,7 @@
               "titre": "M61 Résultats de l’audit sur le tri des DASRI au niveau CHU de Sétif juin 2026",
               "specialite": "microbiologie",
               "theme": "hygiene_hospitaliere",
-              "vignette": null,
+              "vignette": "microbiologie/themes/hygiene_hospitaliere/_vignettes/M61 Résultats de l’audit sur le tri des DASRI au niveau CHU de Sétif juin 2026.png",
               "recherche": "m61 resultats de l’audit sur le tri des dasri au niveau chu de setif juin 2026 m61 resultats de l’audit sur le tri des dasri au niveau chu de setif juin 2026.pdf microbiologie hygiene_hospitaliere"
             }
           ]
