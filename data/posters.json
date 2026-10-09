@@ -124,7 +124,116 @@
         {
           "slug": "cancer",
           "titre": "Approches biochimiques du cancer : du diagnostic au suivi thérapeutique",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "biochimie/themes/cancer/B66 Évaluation des marqueurs du stress oxydatif et inflammatoire chez les malades.pdf",
+              "nom": "B66 Évaluation des marqueurs du stress oxydatif et inflammatoire chez les malades.pdf",
+              "titre": "B66 Évaluation des marqueurs du stress oxydatif et inflammatoire chez les malades",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b66 evaluation des marqueurs du stress oxydatif et inflammatoire chez les malades b66 evaluation des marqueurs du stress oxydatif et inflammatoire chez les malades.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B67 Évaluation de la qualité de l'ADN extrait par la méthode fluorimétrique Qubit ,un outil fiable pour les analyses de biologie moléculaire.pdf",
+              "nom": "B67 Évaluation de la qualité de l'ADN extrait par la méthode fluorimétrique Qubit ,un outil fiable pour les analyses de biologie moléculaire.pdf",
+              "titre": "B67 Évaluation de la qualité de l'ADN extrait par la méthode fluorimétrique Qubit ,un outil fiable pour les analyses de biologie moléculaire",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b67 evaluation de la qualite de l'adn extrait par la methode fluorimetrique qubit ,un outil fiable pour les analyses de biologie moleculaire b67 evaluation de la qualite de l'adn extrait par la methode fluorimetrique qubit ,un outil fiable pour les analyses de biologie moleculaire.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B69 Extraction and isolation of alkaloids from Fumaria agraria, characterization of inhibitory effect on human breast cancer cells proliferation.pdf",
+              "nom": "B69 Extraction and isolation of alkaloids from Fumaria agraria, characterization of inhibitory effect on human breast cancer cells proliferation.pdf",
+              "titre": "B69 Extraction and isolation of alkaloids from Fumaria agraria, characterization of inhibitory effect on human breast cancer cells proliferation",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b69 extraction and isolation of alkaloids from fumaria agraria, characterization of inhibitory effect on human breast cancer cells proliferation b69 extraction and isolation of alkaloids from fumaria agraria, characterization of inhibitory effect on human breast cancer cells proliferation.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B70 Profil biochimique et marqueurs biologiques du cancer du pancréas dans l'Est algérien.pdf",
+              "nom": "B70 Profil biochimique et marqueurs biologiques du cancer du pancréas dans l'Est algérien.pdf",
+              "titre": "B70 Profil biochimique et marqueurs biologiques du cancer du pancréas dans l'Est algérien",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b70 profil biochimique et marqueurs biologiques du cancer du pancreas dans l'est algerien b70 profil biochimique et marqueurs biologiques du cancer du pancreas dans l'est algerien.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B72 Valeur pronostique des niveaux préopératoires de l'ACE et du CA19-9 dans le cancer colorectal  analyse rétrospective au Centre de Lutte Contre le Cancer de Batna.pdf",
+              "nom": "B72 Valeur pronostique des niveaux préopératoires de l'ACE et du CA19-9 dans le cancer colorectal  analyse rétrospective au Centre de Lutte Contre le Cancer de Batna.pdf",
+              "titre": "B72 Valeur pronostique des niveaux préopératoires de l'ACE et du CA19-9 dans le cancer colorectal  analyse rétrospective au Centre de Lutte Contre le Cancer de Batna",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b72 valeur pronostique des niveaux preoperatoires de l'ace et du ca19-9 dans le cancer colorectal  analyse retrospective au centre de lutte contre le cancer de batna b72 valeur pronostique des niveaux preoperatoires de l'ace et du ca19-9 dans le cancer colorectal  analyse retrospective au centre de lutte contre le cancer de batna.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B73 Extraction and isolation of alkaloids from Fumaria agraria, characterization of inhibitory effect on human lung cancer cells proliferation.pdf",
+              "nom": "B73 Extraction and isolation of alkaloids from Fumaria agraria, characterization of inhibitory effect on human lung cancer cells proliferation.pdf",
+              "titre": "B73 Extraction and isolation of alkaloids from Fumaria agraria, characterization of inhibitory effect on human lung cancer cells proliferation",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b73 extraction and isolation of alkaloids from fumaria agraria, characterization of inhibitory effect on human lung cancer cells proliferation b73 extraction and isolation of alkaloids from fumaria agraria, characterization of inhibitory effect on human lung cancer cells proliferation.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B74 Intérêt de l’ADN tumoral circulant dans le suivi et la détection précoce des récidives du cancer colorectal localisé.pdf",
+              "nom": "B74 Intérêt de l’ADN tumoral circulant dans le suivi et la détection précoce des récidives du cancer colorectal localisé.pdf",
+              "titre": "B74 Intérêt de l’ADN tumoral circulant dans le suivi et la détection précoce des récidives du cancer colorectal localisé",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b74 interet de l’adn tumoral circulant dans le suivi et la detection precoce des recidives du cancer colorectal localise b74 interet de l’adn tumoral circulant dans le suivi et la detection precoce des recidives du cancer colorectal localise.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B75 Delayed diagnosis of invasive macroprolactinoma in a 16-year-old.pdf",
+              "nom": "B75 Delayed diagnosis of invasive macroprolactinoma in a 16-year-old.pdf",
+              "titre": "B75 Delayed diagnosis of invasive macroprolactinoma in a 16-year-old",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b75 delayed diagnosis of invasive macroprolactinoma in a 16-year-old b75 delayed diagnosis of invasive macroprolactinoma in a 16-year-old.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B76 Unlocking the Potential of Plasma-Circulating miRNAs in Early Oncologica.pdf",
+              "nom": "B76 Unlocking the Potential of Plasma-Circulating miRNAs in Early Oncologica.pdf",
+              "titre": "B76 Unlocking the Potential of Plasma-Circulating miRNAs in Early Oncologica",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b76 unlocking the potential of plasma-circulating mirnas in early oncologica b76 unlocking the potential of plasma-circulating mirnas in early oncologica.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B77 Évolution des paramètres biochimiques au cours du suivi des patients atteints de leucémie aiguë myéloïde.pdf",
+              "nom": "B77 Évolution des paramètres biochimiques au cours du suivi des patients atteints de leucémie aiguë myéloïde.pdf",
+              "titre": "B77 Évolution des paramètres biochimiques au cours du suivi des patients atteints de leucémie aiguë myéloïde",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b77 evolution des parametres biochimiques au cours du suivi des patients atteints de leucemie aigue myeloide b77 evolution des parametres biochimiques au cours du suivi des patients atteints de leucemie aigue myeloide.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B78 Profil clinico-biologique des patients diagnostiqués du myélome multiple.pdf",
+              "nom": "B78 Profil clinico-biologique des patients diagnostiqués du myélome multiple.pdf",
+              "titre": "B78 Profil clinico-biologique des patients diagnostiqués du myélome multiple",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b78 profil clinico-biologique des patients diagnostiques du myelome multiple b78 profil clinico-biologique des patients diagnostiques du myelome multiple.pdf biochimie cancer"
+            },
+            {
+              "fichier": "biochimie/themes/cancer/B79_Apport du test de libération de l'interféron gamma (IGRA) dans le dépistage de l'infection tuberculeuse latente  expérience du service de biochimie - CHU d'Oran.pdf",
+              "nom": "B79_Apport du test de libération de l'interféron gamma (IGRA) dans le dépistage de l'infection tuberculeuse latente  expérience du service de biochimie - CHU d'Oran.pdf",
+              "titre": "B79 Apport du test de libération de l'interféron gamma (IGRA) dans le dépistage de l'infection tuberculeuse latente  expérience du service de biochimie - CHU d'Oran",
+              "specialite": "biochimie",
+              "theme": "cancer",
+              "vignette": null,
+              "recherche": "b79 apport du test de liberation de l'interferon gamma (igra) dans le depistage de l'infection tuberculeuse latente  experience du service de biochimie - chu d'oran b79_apport du test de liberation de l'interferon gamma (igra) dans le depistage de l'infection tuberculeuse latente  experience du service de biochimie - chu d'oran.pdf biochimie cancer"
+            }
+          ]
         },
         {
           "slug": "qualite_labo",
