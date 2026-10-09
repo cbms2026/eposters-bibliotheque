@@ -663,7 +663,152 @@
         {
           "slug": "qualite_labo",
           "titre": "Qualité et performance en laboratoire : défis et perspectives",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "biochimie/themes/qualite_labo/B80 Étude comparative entre la technique cinétique UV et la technique colorimétrique dans le dosage de l'urée.pdf",
+              "nom": "B80 Étude comparative entre la technique cinétique UV et la technique colorimétrique dans le dosage de l'urée.pdf",
+              "titre": "B80 Étude comparative entre la technique cinétique UV et la technique colorimétrique dans le dosage de l'urée",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b80 etude comparative entre la technique cinetique uv et la technique colorimetrique dans le dosage de l'uree b80 etude comparative entre la technique cinetique uv et la technique colorimetrique dans le dosage de l'uree.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B82 Impact of Collection Method and Storage Time on LDH Reliability.pdf",
+              "nom": "B82 Impact of Collection Method and Storage Time on LDH Reliability.pdf",
+              "titre": "B82 Impact of Collection Method and Storage Time on LDH Reliability",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b82 impact of collection method and storage time on ldh reliability b82 impact of collection method and storage time on ldh reliability.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B83 Électrophorèse capillaire ces interférences qui piègent le biologiste - à propos de cas cliniques.pdf",
+              "nom": "B83 Électrophorèse capillaire ces interférences qui piègent le biologiste - à propos de cas cliniques.pdf",
+              "titre": "B83 Électrophorèse capillaire ces interférences qui piègent le biologiste - à propos de cas cliniques",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b83 electrophorese capillaire ces interferences qui piegent le biologiste - a propos de cas cliniques b83 electrophorese capillaire ces interferences qui piegent le biologiste - a propos de cas cliniques.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B84 True or Artefactual Hyperprolactinemia_Should Patients Be Systematically Screened for Macroprolactin.pdf",
+              "nom": "B84 True or Artefactual Hyperprolactinemia_Should Patients Be Systematically Screened for Macroprolactin.pdf",
+              "titre": "B84 True or Artefactual Hyperprolactinemia Should Patients Be Systematically Screened for Macroprolactin",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b84 true or artefactual hyperprolactinemia should patients be systematically screened for macroprolactin b84 true or artefactual hyperprolactinemia_should patients be systematically screened for macroprolactin.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B85 Verification of Reference Intervals for Salivary Cortisol Measured by Automated Electrochemiluminescence Immunoassay in Healthy Algerian Adults.pdf",
+              "nom": "B85 Verification of Reference Intervals for Salivary Cortisol Measured by Automated Electrochemiluminescence Immunoassay in Healthy Algerian Adults.pdf",
+              "titre": "B85 Verification of Reference Intervals for Salivary Cortisol Measured by Automated Electrochemiluminescence Immunoassay in Healthy Algerian Adults",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b85 verification of reference intervals for salivary cortisol measured by automated electrochemiluminescence immunoassay in healthy algerian adults b85 verification of reference intervals for salivary cortisol measured by automated electrochemiluminescence immunoassay in healthy algerian adults.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B86 Optimisation et contrôle qualité de l'epxtraction de l'ADN gménomique en vue de la recherche des mutations de JAK2.pdf",
+              "nom": "B86 Optimisation et contrôle qualité de l'epxtraction de l'ADN gménomique en vue de la recherche des mutations de JAK2.pdf",
+              "titre": "B86 Optimisation et contrôle qualité de l'epxtraction de l'ADN gménomique en vue de la recherche des mutations de JAK2",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b86 optimisation et controle qualite de l'epxtraction de l'adn gmenomique en vue de la recherche des mutations de jak2 b86 optimisation et controle qualite de l'epxtraction de l'adn gmenomique en vue de la recherche des mutations de jak2.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B87  Optimisation de l'interprétation des tests diagnostiques en biologie médicale.pdf",
+              "nom": "B87  Optimisation de l'interprétation des tests diagnostiques en biologie médicale.pdf",
+              "titre": "B87  Optimisation de l'interprétation des tests diagnostiques en biologie médicale",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b87  optimisation de l'interpretation des tests diagnostiques en biologie medicale b87  optimisation de l'interpretation des tests diagnostiques en biologie medicale.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B88 L’interdépendance conceptuelle entre biologie.pdf",
+              "nom": "B88 L’interdépendance conceptuelle entre biologie.pdf",
+              "titre": "B88 L’interdépendance conceptuelle entre biologie",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b88 l’interdependance conceptuelle entre biologie b88 l’interdependance conceptuelle entre biologie.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B89 La pensée bayésienne en biologie clinique.pdf",
+              "nom": "B89 La pensée bayésienne en biologie clinique.pdf",
+              "titre": "B89 La pensée bayésienne en biologie clinique",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b89 la pensee bayesienne en biologie clinique b89 la pensee bayesienne en biologie clinique.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B90 Etude des caractéristiques analytiques du dosage du CA 27.29 sur l'immunoanalyseur TOSOH AIA-360  répétabilité, reproductibilité, exactitude et stabilité.pdf",
+              "nom": "B90 Etude des caractéristiques analytiques du dosage du CA 27.29 sur l'immunoanalyseur TOSOH AIA-360  répétabilité, reproductibilité, exactitude et stabilité.pdf",
+              "titre": "B90 Etude des caractéristiques analytiques du dosage du CA 27.29 sur l'immunoanalyseur TOSOH AIA-360  répétabilité, reproductibilité, exactitude et stabilité",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b90 etude des caracteristiques analytiques du dosage du ca 27.29 sur l'immunoanalyseur tosoh aia-360  repetabilite, reproductibilite, exactitude et stabilite b90 etude des caracteristiques analytiques du dosage du ca 27.29 sur l'immunoanalyseur tosoh aia-360  repetabilite, reproductibilite, exactitude et stabilite.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B91 Vérification des intervalles de référence de quelques paramètres biochimiques.pdf",
+              "nom": "B91 Vérification des intervalles de référence de quelques paramètres biochimiques.pdf",
+              "titre": "B91 Vérification des intervalles de référence de quelques paramètres biochimiques",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b91 verification des intervalles de reference de quelques parametres biochimiques b91 verification des intervalles de reference de quelques parametres biochimiques.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B92 impact de l'hypoprotéinémie sur la mesure de la natrémie par potentiométrie indirecte.pdf",
+              "nom": "B92 impact de l'hypoprotéinémie sur la mesure de la natrémie par potentiométrie indirecte.pdf",
+              "titre": "B92 impact de l'hypoprotéinémie sur la mesure de la natrémie par potentiométrie indirecte",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b92 impact de l'hypoproteinemie sur la mesure de la natremie par potentiometrie indirecte b92 impact de l'hypoproteinemie sur la mesure de la natremie par potentiometrie indirecte.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B93 Role des paramètres biochimiques dans  la détection précoce des effets.pdf",
+              "nom": "B93 Role des paramètres biochimiques dans  la détection précoce des effets.pdf",
+              "titre": "B93 Role des paramètres biochimiques dans  la détection précoce des effets",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b93 role des parametres biochimiques dans  la detection precoce des effets b93 role des parametres biochimiques dans  la detection precoce des effets.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B95 Les signatures mutationnelles APOBEC  un biomarqueur émergent pour le suivi thérapeutique et la prédiction de la réponse aux traitements en cancérologie.pdf",
+              "nom": "B95 Les signatures mutationnelles APOBEC  un biomarqueur émergent pour le suivi thérapeutique et la prédiction de la réponse aux traitements en cancérologie.pdf",
+              "titre": "B95 Les signatures mutationnelles APOBEC  un biomarqueur émergent pour le suivi thérapeutique et la prédiction de la réponse aux traitements en cancérologie",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b95 les signatures mutationnelles apobec  un biomarqueur emergent pour le suivi therapeutique et la prediction de la reponse aux traitements en cancerologie b95 les signatures mutationnelles apobec  un biomarqueur emergent pour le suivi therapeutique et la prediction de la reponse aux traitements en cancerologie.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B96 Intelligence artificielle et prédiction de la néphropathie diabétique vers une intégration des données cliniques et biologiques.pdf",
+              "nom": "B96 Intelligence artificielle et prédiction de la néphropathie diabétique vers une intégration des données cliniques et biologiques.pdf",
+              "titre": "B96 Intelligence artificielle et prédiction de la néphropathie diabétique vers une intégration des données cliniques et biologiques",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b96 intelligence artificielle et prediction de la nephropathie diabetique vers une integration des donnees cliniques et biologiques b96 intelligence artificielle et prediction de la nephropathie diabetique vers une integration des donnees cliniques et biologiques.pdf biochimie qualite_labo"
+            },
+            {
+              "fichier": "biochimie/themes/qualite_labo/B97 Estimation de l’incertitude de mesure de l’HbA1c sur Bio-Rad D10.pdf",
+              "nom": "B97 Estimation de l’incertitude de mesure de l’HbA1c sur Bio-Rad D10.pdf",
+              "titre": "B97 Estimation de l’incertitude de mesure de l’HbA1c sur Bio-Rad D10",
+              "specialite": "biochimie",
+              "theme": "qualite_labo",
+              "vignette": null,
+              "recherche": "b97 estimation de l’incertitude de mesure de l’hba1c sur bio-rad d10 b97 estimation de l’incertitude de mesure de l’hba1c sur bio-rad d10.pdf biochimie qualite_labo"
+            }
+          ]
         }
       ],
       "themes_autres": []
