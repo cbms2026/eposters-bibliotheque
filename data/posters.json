@@ -1673,7 +1673,107 @@
         {
           "slug": "globules_rouges",
           "titre": "Globules rouges : caractérisation et innovations moléculaires",
-          "posters": []
+          "posters": [
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H53. Anomalies héréditaires de l hémoglobine.pdf",
+              "nom": "H53. Anomalies héréditaires de l hémoglobine.pdf",
+              "titre": "H53. Anomalies héréditaires de l hémoglobine",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h53. anomalies hereditaires de l hemoglobine h53. anomalies hereditaires de l hemoglobine.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H54. The Inflammatory Microcytosis Paradox What Does HbA2 Really Tell Us.pdf",
+              "nom": "H54. The Inflammatory Microcytosis Paradox What Does HbA2 Really Tell Us.pdf",
+              "titre": "H54. The Inflammatory Microcytosis Paradox What Does HbA2 Really Tell Us",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h54. the inflammatory microcytosis paradox what does hba2 really tell us h54. the inflammatory microcytosis paradox what does hba2 really tell us.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H55. Profil épidémiologique et biologique des hémoglobinopathies diagnostiquées au chu saadna abdennour de setif.pdf",
+              "nom": "H55. Profil épidémiologique et biologique des hémoglobinopathies diagnostiquées au chu saadna abdennour de setif.pdf",
+              "titre": "H55. Profil épidémiologique et biologique des hémoglobinopathies diagnostiquées au chu saadna abdennour de setif",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h55. profil epidemiologique et biologique des hemoglobinopathies diagnostiquees au chu saadna abdennour de setif h55. profil epidemiologique et biologique des hemoglobinopathies diagnostiquees au chu saadna abdennour de setif.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H56. DIFFICULTÉS DIAGNOSTIQUES D UN VARIANT RhD PARTIEL À PROPOS D'UN CAS.pdf",
+              "nom": "H56. DIFFICULTÉS DIAGNOSTIQUES D UN VARIANT RhD PARTIEL À PROPOS D'UN CAS.pdf",
+              "titre": "H56. DIFFICULTÉS DIAGNOSTIQUES D UN VARIANT RhD PARTIEL À PROPOS D'UN CAS",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h56. difficultes diagnostiques d un variant rhd partiel a propos d'un cas h56. difficultes diagnostiques d un variant rhd partiel a propos d'un cas.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H57. Hémoglobinopathie rare de type hémoglobine Lepore  à propos d’un cas.pdf",
+              "nom": "H57. Hémoglobinopathie rare de type hémoglobine Lepore  à propos d’un cas.pdf",
+              "titre": "H57. Hémoglobinopathie rare de type hémoglobine Lepore  à propos d’un cas",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h57. hemoglobinopathie rare de type hemoglobine lepore  a propos d’un cas h57. hemoglobinopathie rare de type hemoglobine lepore  a propos d’un cas.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H58. Groupes_ABO et Cancer du Pancreas. Etude dans une population algérienne.pdf",
+              "nom": "H58. Groupes_ABO et Cancer du Pancreas. Etude dans une population algérienne.pdf",
+              "titre": "H58. Groupes ABO et Cancer du Pancreas. Etude dans une population algérienne",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h58. groupes abo et cancer du pancreas. etude dans une population algerienne h58. groupes_abo et cancer du pancreas. etude dans une population algerienne.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H59. La place de l'electrophorese capillaire dans le depistage hemoglobinopathies.pdf",
+              "nom": "H59. La place de l'electrophorese capillaire dans le depistage hemoglobinopathies.pdf",
+              "titre": "H59. La place de l'electrophorese capillaire dans le depistage hemoglobinopathies",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h59. la place de l'electrophorese capillaire dans le depistage hemoglobinopathies h59. la place de l'electrophorese capillaire dans le depistage hemoglobinopathies.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H60. Apport de la biologie dans l'évaluation de l'hémorragie foetomaternelle.pdf",
+              "nom": "H60. Apport de la biologie dans l'évaluation de l'hémorragie foetomaternelle.pdf",
+              "titre": "H60. Apport de la biologie dans l'évaluation de l'hémorragie foetomaternelle",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h60. apport de la biologie dans l'evaluation de l'hemorragie foetomaternelle h60. apport de la biologie dans l'evaluation de l'hemorragie foetomaternelle.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H61. Quand l information génétique dépasse le résultat biologique,  conséquences psychosociales de l annonce du statut de porteur hétérozygote d’une hémoglobinopathie.pdf",
+              "nom": "H61. Quand l information génétique dépasse le résultat biologique,  conséquences psychosociales de l annonce du statut de porteur hétérozygote d’une hémoglobinopathie.pdf",
+              "titre": "H61. Quand l information génétique dépasse le résultat biologique,  conséquences psychosociales de l annonce du statut de porteur hétérozygote d’une hémoglobinopathie",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h61. quand l information genetique depasse le resultat biologique,  consequences psychosociales de l annonce du statut de porteur heterozygote d’une hemoglobinopathie h61. quand l information genetique depasse le resultat biologique,  consequences psychosociales de l annonce du statut de porteur heterozygote d’une hemoglobinopathie.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H62. Béta THALASSÉMIE ET ANÉMIE MICROCYTAIRE. APPORT DE L’HÉMOGRAMME ET DU FROTTIS SANGUIN DANS L’ORIENTATION DIAGNOSTIQUE.pdf",
+              "nom": "H62. Béta THALASSÉMIE ET ANÉMIE MICROCYTAIRE. APPORT DE L’HÉMOGRAMME ET DU FROTTIS SANGUIN DANS L’ORIENTATION DIAGNOSTIQUE.pdf",
+              "titre": "H62. Béta THALASSÉMIE ET ANÉMIE MICROCYTAIRE. APPORT DE L’HÉMOGRAMME ET DU FROTTIS SANGUIN DANS L’ORIENTATION DIAGNOSTIQUE",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h62. beta thalassemie et anemie microcytaire. apport de l’hemogramme et du frottis sanguin dans l’orientation diagnostique h62. beta thalassemie et anemie microcytaire. apport de l’hemogramme et du frottis sanguin dans l’orientation diagnostique.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H63. Beyond Anemia Red Cell Distribution Width as an Emerging Biomarker in Ischemic Heart Disease and Acute.pdf",
+              "nom": "H63. Beyond Anemia Red Cell Distribution Width as an Emerging Biomarker in Ischemic Heart Disease and Acute.pdf",
+              "titre": "H63. Beyond Anemia Red Cell Distribution Width as an Emerging Biomarker in Ischemic Heart Disease and Acute",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h63. beyond anemia red cell distribution width as an emerging biomarker in ischemic heart disease and acute h63. beyond anemia red cell distribution width as an emerging biomarker in ischemic heart disease and acute.pdf hemobiologie globules_rouges"
+            }
+          ]
         }
       ],
       "themes_autres": []
