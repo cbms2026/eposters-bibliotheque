@@ -404,6 +404,15 @@
               "recherche": "b45 interet du ratio tg hdl cholesterol comme biomarqueur d'orientation b45 interet du ratio tg hdl cholesterol comme biomarqueur d'orientation.pdf biochimie maladies_metaboliques"
             },
             {
+              "fichier": "biochimie/themes/maladies_metaboliques/B47 Apport des explorations hormonales dans le diagnostic étiologique.pdf",
+              "nom": "B47 Apport des explorations hormonales dans le diagnostic étiologique.pdf",
+              "titre": "B47 Apport des explorations hormonales dans le diagnostic étiologique",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b47 apport des explorations hormonales dans le diagnostic etiologique b47 apport des explorations hormonales dans le diagnostic etiologique.pdf biochimie maladies_metaboliques"
+            },
+            {
               "fichier": "biochimie/themes/maladies_metaboliques/B48 Prévention du diabète en milieu professionnel rôle du dépistage et enjeux de santé au travail.pdf",
               "nom": "B48 Prévention du diabète en milieu professionnel rôle du dépistage et enjeux de santé au travail.pdf",
               "titre": "B48 Prévention du diabète en milieu professionnel rôle du dépistage et enjeux de santé au travail",
@@ -438,6 +447,15 @@
               "theme": "maladies_metaboliques",
               "vignette": "biochimie/themes/maladies_metaboliques/_vignettes/B51 TyG BMI et ses déterminants métaboliques.png",
               "recherche": "b51 tyg bmi et ses determinants metaboliques b51 tyg bmi et ses determinants metaboliques.pdf biochimie maladies_metaboliques"
+            },
+            {
+              "fichier": "biochimie/themes/maladies_metaboliques/B52 K2 ou K3 EDTA impact du type d’anticoagulant sur le dosage de l’HbA1c.pdf",
+              "nom": "B52 K2 ou K3 EDTA impact du type d’anticoagulant sur le dosage de l’HbA1c.pdf",
+              "titre": "B52 K2 ou K3 EDTA impact du type d’anticoagulant sur le dosage de l’HbA1c",
+              "specialite": "biochimie",
+              "theme": "maladies_metaboliques",
+              "vignette": null,
+              "recherche": "b52 k2 ou k3 edta impact du type d’anticoagulant sur le dosage de l’hba1c b52 k2 ou k3 edta impact du type d’anticoagulant sur le dosage de l’hba1c.pdf biochimie maladies_metaboliques"
             }
           ]
         },
