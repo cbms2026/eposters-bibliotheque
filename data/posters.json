@@ -106,7 +106,7 @@
               "titre": "B12 Acide méthylmalonique ou homocystéine",
               "specialite": "biochimie",
               "theme": "biomarqueurs",
-              "vignette": null,
+              "vignette": "biochimie/themes/biomarqueurs/_vignettes/B12 Acide méthylmalonique ou homocystéine.png",
               "recherche": "b12 acide methylmalonique ou homocysteine b12 acide methylmalonique ou homocysteine.pdf biochimie biomarqueurs"
             }
           ]
@@ -409,7 +409,7 @@
               "titre": "B47 Apport des explorations hormonales dans le diagnostic étiologique",
               "specialite": "biochimie",
               "theme": "maladies_metaboliques",
-              "vignette": null,
+              "vignette": "biochimie/themes/maladies_metaboliques/_vignettes/B47 Apport des explorations hormonales dans le diagnostic étiologique.png",
               "recherche": "b47 apport des explorations hormonales dans le diagnostic etiologique b47 apport des explorations hormonales dans le diagnostic etiologique.pdf biochimie maladies_metaboliques"
             },
             {
@@ -454,7 +454,7 @@
               "titre": "B52 K2 ou K3 EDTA impact du type d’anticoagulant sur le dosage de l’HbA1c",
               "specialite": "biochimie",
               "theme": "maladies_metaboliques",
-              "vignette": null,
+              "vignette": "biochimie/themes/maladies_metaboliques/_vignettes/B52 K2 ou K3 EDTA impact du type d’anticoagulant sur le dosage de l’HbA1c.png",
               "recherche": "b52 k2 ou k3 edta impact du type d’anticoagulant sur le dosage de l’hba1c b52 k2 ou k3 edta impact du type d’anticoagulant sur le dosage de l’hba1c.pdf biochimie maladies_metaboliques"
             }
           ]
