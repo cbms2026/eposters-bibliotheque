@@ -99,6 +99,15 @@
               "theme": "biomarqueurs",
               "vignette": "biochimie/themes/biomarqueurs/_vignettes/B11 Apport des biomarqueurs biochimiques dans l'individualisation du traitement cardiovasculaire.png",
               "recherche": "b11 apport des biomarqueurs biochimiques dans l'individualisation du traitement cardiovasculaire b11 apport des biomarqueurs biochimiques dans l'individualisation du traitement cardiovasculaire.pdf biochimie biomarqueurs"
+            },
+            {
+              "fichier": "biochimie/themes/biomarqueurs/B12 Acide méthylmalonique ou homocystéine.pdf",
+              "nom": "B12 Acide méthylmalonique ou homocystéine.pdf",
+              "titre": "B12 Acide méthylmalonique ou homocystéine",
+              "specialite": "biochimie",
+              "theme": "biomarqueurs",
+              "vignette": null,
+              "recherche": "b12 acide methylmalonique ou homocysteine b12 acide methylmalonique ou homocysteine.pdf biochimie biomarqueurs"
             }
           ]
         },
