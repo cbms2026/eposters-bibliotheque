@@ -1969,8 +1969,17 @@
               "titre": "H64. Antihemolytic activity of Stipagrostis pungens (Desf.) De Winter extracts proposing a novel molecular mechanism of erythrocyte membran",
               "specialite": "hemobiologie",
               "theme": "globules_rouges",
-              "vignette": null,
+              "vignette": "hemobiologie/themes/globules_rouges/_vignettes/H64. Antihemolytic activity of Stipagrostis pungens (Desf.) De Winter extracts proposing a novel molecular mechanism of erythrocyte membran.png",
               "recherche": "h64. antihemolytic activity of stipagrostis pungens (desf.) de winter extracts proposing a novel molecular mechanism of erythrocyte membran h64. antihemolytic activity of stipagrostis pungens (desf.) de winter extracts proposing a novel molecular mechanism of erythrocyte membran.pdf hemobiologie globules_rouges"
+            },
+            {
+              "fichier": "hemobiologie/themes/globules_rouges/H65. Existe -t-il une interférence des AC des donneurs de sang séro-positifs.pdf",
+              "nom": "H65. Existe -t-il une interférence des AC des donneurs de sang séro-positifs.pdf",
+              "titre": "H65. Existe -t-il une interférence des AC des donneurs de sang séro-positifs",
+              "specialite": "hemobiologie",
+              "theme": "globules_rouges",
+              "vignette": null,
+              "recherche": "h65. existe -t-il une interference des ac des donneurs de sang sero-positifs h65. existe -t-il une interference des ac des donneurs de sang sero-positifs.pdf hemobiologie globules_rouges"
             }
           ]
         }
